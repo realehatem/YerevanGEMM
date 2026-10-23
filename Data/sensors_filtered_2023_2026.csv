@@ -1,0 +1,425 @@
+id,station_id,city_slug,district_slug,address_en,title,provider,external_id,sensor_type,latitude,longitude,altitude,first_measurement_time,last_measurement_time,is_suspicious
+2,1,yerevan,nor-nork,Bagrevand,Engineering City (ArmAqi.org),sensor_community,80681,SDS011,40.2,44.582,1373.1,2023-06-01 04:00:35,2025-11-11 18:20:18,False
+4,235,yerevan,arabkir,"Komitas street, 17",,sensor_community,80868,SDS011,40.204,44.5,1121.4,2023-06-01 04:00:00,2026-04-11 19:13:04,False
+9,4,yerevan,arabkir,Aygektsi street,Aygektci street (ArmAqi.org),sensor_community,83115,SDS011,40.206,44.498,927.6,2023-09-25 15:09:48,2025-03-24 21:45:20,False
+11,205,yerevan,kentron,Surb Grigor Lusavorich Street,Chekhov street (ArmAqi.org),sensor_community,83131,SDS011,40.176576,44.50444,981.7,2023-09-26 17:12:47,2026-04-11 19:14:06,False
+15,7,yerevan,arabkir,st. Hayrik Muradyan,Hayrik Muradyan street (ArmAqi.org),sensor_community,84319,SDS011,40.203215,44.515569,1162.7,2023-11-28 13:09:38,2025-11-15 16:35:04,False
+17,8,yerevan,kanaker-zeytun,Shovroyan street,Shovroyan street (ArmAqi.org),sensor_community,84664,SDS011,40.200708,44.547009,1259.5,2023-12-12 14:53:43,2025-08-15 07:15:45,False
+19,9,yerevan,kanaker-zeytun,Hrachya Nersisyan street,Hrachya Nersisyan Street (ArmAqi.org),sensor_community,84695,SDS011,40.204,44.532,1213.1,2023-12-13 21:58:16,2025-03-15 04:10:56,False
+21,211,yerevan,arabkir,Aram Khachaturyan Street,Gevorg Chaush street (ArmAqi.org),sensor_community,84847,SDS011,40.202596,44.491078,1089.7,2023-12-21 05:49:13,2026-04-11 19:13:48,False
+23,11,yerevan,shengavit,Garegin Nzhdeh street,Garegin Nzhdeh Street (ArmAqi.org),sensor_community,85218,SDS011,40.152,44.49,927.9,2024-01-09 21:03:47,2026-04-11 19:12:13,False
+24,12,yerevan,arabkir,Keru street,Qeri street (ArmAqi.org),sensor_community,85546,SDS011,40.201493,44.487354,1074.2,2024-01-22 23:29:25,2025-03-15 04:27:45,False
+27,14,yerevan,kanaker-zeytun,Babayan street,Green Green Ecocenter (ArmAqi.org),sensor_community,86195,SDS011,40.198069,44.520984,1137.1,2024-02-23 17:24:30,2025-03-15 04:43:13,False
+32,17,yerevan,malatia-sebastia,Sebastia street,Sebastia street (ArmAqi.org),sensor_community,86420,SDS011,40.188522,44.46303,1013.0,2024-03-07 16:48:34,2025-04-09 15:57:32,False
+36,212,yerevan,arabkir,Adonts st,Nikoghayos Adonts street (ArmAqi.org),sensor_community,88230,SDS011,40.213376,44.524329,1211.5,2024-06-08 18:42:55,2026-04-11 19:14:14,False
+39,21,yerevan,kentron,Kond,Kond (ArmAqi.org),sensor_community,90711,SDS011,40.184,44.504,1009.0,2024-12-16 21:46:28,2025-03-15 04:53:55,False
+41,28,yerevan,avan,Kuchak,"1/4 Alma-Ata street, Yerevan, Armenia",clarity,DACWA9824,CLARITY,40.218822,44.576525,,2024-03-26 04:00:00,2025-11-03 03:00:00,False
+42,29,yerevan,kanaker-zeytun,"Dro street, 13/1","13/1 Dro street, Yerevan, Armenia",clarity,DADDF8497,CLARITY,40.203692,44.540715,,2024-04-16 18:00:00,2026-04-11 19:00:00,False
+43,30,yerevan,malatia-sebastia,"Tsitsernakaberd highway, 1..4","3 Tsitsernakaberd street, Yerevan, Armenia",clarity,DBJGM2682,CLARITY,40.182333,44.480884,,2024-06-12 04:00:00,2026-03-16 03:00:00,False
+44,53,yerevan,nork-marash,"Aytsemnik Urartu Street, 82/5","82/5 Aytsemnik Urartu street, Yerevan, Armenia",clarity,DCBEG1774,CLARITY,40.177851,44.542843,,2024-07-12 17:00:00,2026-04-11 19:00:00,False
+46,42,yerevan,malatia-sebastia,"Leningradyan street , 23/18","23/18 Leningradyan street, Yerevan, Armenia",clarity,DCJGV0900,CLARITY,40.189063,44.472001,,2024-07-08 17:00:00,2026-04-11 19:00:00,False
+47,37,yerevan,arabkir,"Griboyedov street, 17","17 Griboyedov street, Yerevan, Armenia",clarity,DDBZY8999,CLARITY,40.21069,44.513995,,2024-06-26 16:00:00,2026-04-11 19:00:00,False
+48,38,yerevan,shengavit,"Arshakunyats avenue, 192","192 Arshakunyats street, Yerevan, Armenia",clarity,DDGDP6324,CLARITY,40.144987,44.496617,,2024-06-06 17:00:00,2025-06-19 16:00:00,False
+49,50,yerevan,kentron,"Edvard Mirzoyan street, 5","5 E.Mirzoyan street, Yerevan, Armenia",clarity,DDGDZ7324,CLARITY,40.196105,44.50853,,2024-07-05 04:00:00,2026-01-23 07:00:00,False
+50,48,yerevan,ajapnyak,"Lukashina street, 37/47","37/47 Lukashin street, Yerevan, Armenia",clarity,DDKAS9056,CLARITY,40.193658,44.447,,2024-06-03 04:00:00,2025-06-23 20:00:00,False
+51,43,yerevan,nor-nork,"Nansen Street, 24","24 Nansen street, Yerevan, Armenia",clarity,DDUGL5981,CLARITY,40.19745,44.557409,,2024-06-20 04:00:00,2026-01-12 17:00:00,False
+52,44,yerevan,kanaker-zeytun,"David Anhaght street, 25","25 D.Anhaght street, Yerevan, Armenia",clarity,DEEWK1417,CLARITY,40.200003,44.536476,,2024-03-26 04:00:00,2026-03-17 15:00:00,False
+53,34,yerevan,kentron,"Verin Antarain street, 136/2","136/2 Verin antarayin street, Yerevan, Armenia",clarity,DERNX1436,CLARITY,40.197576,44.511123,,2024-07-03 16:00:00,2026-04-11 19:00:00,False
+54,30,yerevan,malatia-sebastia,"Tsitsernakaberd highway, 1..4","4 Tsitsernakaberd street, Yerevan, Armenia",clarity,DETFB5758,CLARITY,40.18257,44.481232,,2024-06-12 04:00:00,2025-12-22 05:00:00,False
+55,50,yerevan,kentron,"Edvard Mirzoyan street, 5","5 E.Mirzoyan street, Yerevan, Armenia",clarity,DGIJE1070,CLARITY,40.196353,44.507888,,2024-07-05 04:00:00,2025-05-12 06:00:00,False
+56,51,yerevan,davtashen,"1st quarter Davtashen, 61","61 Davtashen 1-st street, Yerevan, Armenia",clarity,DGXRI2364,CLARITY,40.219206,44.486441,,2024-04-05 04:00:00,2026-04-11 19:00:00,False
+57,36,yerevan,davtashen,"10th street Davtashen, 15/5","15/5 Davtashen 10-th street, Yerevan, Armenia",clarity,DHBVD3360,CLARITY,40.220139,44.48396,,2024-06-05 21:00:00,2025-06-04 09:00:00,False
+58,31,yerevan,kanaker-zeytun,"Dro street, 22","22 Dro street, Yerevan, Armenia",clarity,DHXDH8620,CLARITY,40.205293,44.544327,,2024-04-02 16:00:00,2026-04-11 19:00:00,False
+59,51,yerevan,davtashen,"1st quarter Davtashen, 61","61 Davtashen 1-st street, Yerevan, Armenia",clarity,DIDDH8878,CLARITY,40.219126,44.485678,,2024-04-02 16:00:00,2025-10-31 07:00:00,False
+60,29,yerevan,kanaker-zeytun,"Dro street, 13/1","13/1 Dro street, Yerevan, Armenia",clarity,DIWGN3527,CLARITY,40.203171,44.541504,,2024-04-16 23:00:00,2026-04-11 19:00:00,False
+61,40,yerevan,arabkir,"Svetlana Grigoryan street, 21","21 S.Grigoryan street, Yerevan, Armenia",clarity,DJBDR9588,CLARITY,40.201274,44.515686,,2024-06-14 10:00:00,2026-04-11 19:00:00,False
+62,48,yerevan,ajapnyak,"Lukashina street, 37/47","37/47 Lukashin street, Yerevan, Armenia",clarity,DJZDY4081,CLARITY,40.19401,44.446711,,2024-05-31 09:00:00,2025-06-23 20:00:00,False
+63,40,yerevan,arabkir,"Svetlana Grigoryan street, 21","21 S.Grigoryan street, Yerevan, Armenia",clarity,DKBFQ1957,CLARITY,40.201072,44.515867,,2024-06-14 10:00:00,2026-04-11 19:00:00,False
+65,45,yerevan,kanaker-zeytun,"Rubinyants street, 27/16","27/16 Rubinyants street, Yerevan, Armenia",clarity,DMHSU5577,CLARITY,40.20648,44.552813,,2024-06-27 10:00:00,2026-04-11 19:00:00,False
+66,33,yerevan,kentron,"Gevorg Emin street, 6, 12","12 G.Emin street, Yerevan, Armenia",clarity,DMZDT9732,CLARITY,40.19469,44.509668,,2024-06-25 18:00:00,2025-06-23 20:00:00,False
+67,33,yerevan,kentron,"Gevorg Emin street, 6, 12","12 G.Emin street, Yerevan, Armenia",clarity,DNHWJ9492,CLARITY,40.194414,44.509602,,2024-06-25 18:00:00,2025-06-23 20:00:00,False
+68,36,yerevan,davtashen,"10th street Davtashen, 15/5","15/5 Davtashen 10-th street, Yerevan, Armenia",clarity,DNNKY6129,CLARITY,40.221115,44.484391,,2024-06-05 21:00:00,2025-05-11 16:00:00,False
+69,47,yerevan,kentron,"Aram street, 32","32 Aram street, Yerevan, Armenia",clarity,DPHGS0528,CLARITY,40.180954,44.513608,,2024-07-12 14:00:00,2026-04-11 19:00:00,False
+70,35,yerevan,shengavit,"Garegin Nzhdeh Street, 15/1","15/1 Nzhdeh street, Yerevan, Armenia",clarity,DPRZF2958,CLARITY,40.151925,44.486616,,2024-06-05 17:00:00,2026-01-12 13:00:00,False
+71,41,yerevan,malatia-sebastia,"Isakov Avenue, 22/1","22/1 Isakov street, Yerevan, Armenia",clarity,DQHQF5746,CLARITY,40.157701,44.46107,,2024-07-03 11:00:00,2026-04-11 19:00:00,False
+72,31,yerevan,kanaker-zeytun,"Dro street, 22","22 Dro street, Yerevan, Armenia",clarity,DQRWI9606,CLARITY,40.205636,44.544678,,2024-04-05 04:00:00,2026-04-11 19:00:00,False
+73,30,yerevan,malatia-sebastia,"Tsitsernakaberd highway, 1..4","2 Tsitsernakaberd street, Yerevan, Armenia",clarity,DQXAQ6339,CLARITY,40.181398,44.480768,,2024-06-12 04:00:00,2026-03-30 08:00:00,False
+74,38,yerevan,shengavit,"Arshakunyats avenue, 192","192 Arshakunyats street, Yerevan, Armenia",clarity,DRCFM5700,CLARITY,40.14486,44.497045,,2024-06-06 16:00:00,2025-06-19 16:00:00,False
+75,49,yerevan,kanaker-zeytun,"Karapet Ulnetsi street, 45/1","45/1 Ulnetsi street, Yerevan, Armenia",clarity,DRYZY9931,CLARITY,40.202882,44.533607,,2024-05-13 16:00:00,2025-05-13 13:00:00,False
+76,47,yerevan,kentron,"Aram street, 32","32 Aram street, Yerevan, Armenia",clarity,DTKWP1685,CLARITY,40.18123,44.513889,,2024-07-12 14:00:00,2026-04-11 19:00:00,False
+77,44,yerevan,kanaker-zeytun,"David Anhaght street, 25","25 D.Anhaght street, Yerevan, Armenia",clarity,DTMAJ8003,CLARITY,40.200325,44.536883,,2024-03-26 04:00:00,2026-03-17 15:00:00,False
+78,30,yerevan,malatia-sebastia,"Tsitsernakaberd highway, 1..4","1 Tsitsernakaberd street, Yerevan, Armenia",clarity,DTWVL0717,CLARITY,40.181915,44.481152,,2024-06-11 18:00:00,2026-02-26 20:00:00,False
+79,32,yerevan,shengavit,"Artashat Highway, 101/2","101/2 Artashat street, Yerevan, Armenia",clarity,DTYQT4045,CLARITY,40.109148,44.471665,,2024-07-12 15:00:00,2025-06-23 20:00:00,False
+80,46,yerevan,shengavit,"Arshakunyats Avenue, 27/3","27/3 Arshakunyats street, Yerevan, Armenia",clarity,DUHPI8625,CLARITY,40.157646,44.504469,,2024-06-04 01:00:00,2026-04-11 19:00:00,False
+81,42,yerevan,malatia-sebastia,"Leningradyan street , 23/18","23/18 Leningradyan street, Yerevan, Armenia",clarity,DUPKV6193,CLARITY,40.189605,44.471517,,2024-07-08 15:00:00,2026-04-11 19:00:00,False
+82,46,yerevan,shengavit,"Arshakunyats Avenue, 27/3","27/3 Arshakunyats street, Yerevan, Armenia",clarity,DVBEJ8996,CLARITY,40.157959,44.504909,,2024-06-03 18:00:00,2026-04-11 19:00:00,False
+83,34,yerevan,kentron,"Verin Antarain street, 136/2","136/2 Verin antarayin street, Yerevan, Armenia",clarity,DVJBD7236,CLARITY,40.198153,44.509898,,2024-07-05 04:00:00,2026-04-11 19:00:00,False
+84,39,yerevan,nork-marash,"Nork Street, 19","19 Nork street, Yerevan, Armenia",clarity,DVNPH2193,CLARITY,40.19189,44.542738,,2024-03-21 04:00:00,2025-09-30 16:00:00,False
+85,28,yerevan,avan,Kuchak,"1/4 Alma-Ata street, Yerevan, Armenia",clarity,DVWCH7779,CLARITY,40.219185,44.575643,,2024-03-26 04:00:00,2025-04-15 06:00:00,False
+86,35,yerevan,shengavit,"Garegin Nzhdeh Street, 15/1","15/1 Nzhdeh street, Yerevan, Armenia",clarity,DWHYR4927,CLARITY,40.151826,44.485872,,2024-06-05 21:00:00,2026-04-11 19:00:00,False
+87,53,yerevan,nork-marash,"Aytsemnik Urartu Street, 82/5","82/5 Aytsemnik Urartu street, Yerevan, Armenia",clarity,DWVEY0910,CLARITY,40.177916,44.543395,,2024-07-12 17:00:00,2026-04-11 19:00:00,False
+88,32,yerevan,shengavit,"Artashat Highway, 101/2","101/2 Artashat street, Yerevan, Armenia",clarity,DWXDC2269,CLARITY,40.108538,44.470834,,2024-07-12 15:00:00,2025-06-23 20:00:00,False
+89,41,yerevan,malatia-sebastia,"Isakov Avenue, 22/1","22/1 Isakov street, Yerevan, Armenia",clarity,DXZFS6100,CLARITY,40.157575,44.459894,,2024-07-04 04:00:00,2026-04-11 19:00:00,False
+90,37,yerevan,arabkir,"Griboyedov street, 17","17 Griboyedov street, Yerevan, Armenia",clarity,DYTXC0986,CLARITY,40.211421,44.512735,,2024-06-26 16:00:00,2025-06-23 20:00:00,False
+91,49,yerevan,kanaker-zeytun,"Karapet Ulnetsi street, 45/1","45/1 Ulnetsi street, Yerevan, Armenia",clarity,DZXUU3538,CLARITY,40.202509,44.533042,,2024-05-13 21:00:00,2025-05-13 16:00:00,False
+93,24,yerevan,ajapnyak,Vahagni,Yerevan - Vahakni,purple_air,23069,PURPLE_AIR,40.224964,44.451405,,2019-02-06 14:00:00,2026-04-11 19:15:08,False
+95,24,yerevan,ajapnyak,Vahagni,Yerevan - Vahagni,purple_air,48043,PURPLE_AIR,40.219788,44.448303,,2020-02-06 03:00:00,2021-06-21 09:00:00,False
+96,25,yerevan,kentron,Lovers' Park,Lover's Park Apartment (balcony),purple_air,58673,PURPLE_AIR,40.191296,44.505783,,2020-06-29 22:00:00,2026-04-11 19:15:09,False
+98,26,yerevan,arabkir,Komitas street,AQI on Komitas by FRANKYANTS.ORG,purple_air,109474,PURPLE_AIR,40.20678,44.518063,,2024-05-05 15:00:00,2026-04-08 21:02:31,False
+99,27,yerevan,ajapnyak,Abelyan street,AQI Near Tumo Center by FRANKYANTS.ORG,purple_air,109478,PURPLE_AIR,40.198456,44.477913,,2021-06-19 00:00:00,2025-08-16 13:12:08,False
+104,35,yerevan,shengavit,"Garegin Nzhdeh Street, 15/1",Գ․ Նժդեհ 15/1,yerevan_gis,DWHYR4927,CLARITY_NODE,40.151826,44.485872,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+111,43,yerevan,nor-nork,"Nansen Street, 24","ք. Երևան, Նորք 1-ին զ, Նանսեն 24",yerevan_gis,DCIKP1594,CLARITY_NODE,40.197623,44.556469,,2024-11-25 16:00:00,2025-04-03 08:00:00,False
+112,76,yerevan,nor-nork,"Tevosyan street, 1/5","ք․ Երևան, Հովհանես Թևոսյան 1/5",yerevan_gis,DSNDV4890,CLARITY_NODE,40.185334,44.57273,,2024-11-25 16:00:00,2025-10-16 04:00:00,False
+113,43,yerevan,nor-nork,"Nansen Street, 24",Նանսեն 24,yerevan_gis,DDUGL5981,CLARITY_NODE,40.19745,44.557409,,2024-11-25 16:00:00,2025-12-31 04:00:00,False
+115,86,yerevan,arabkir,Near the Institute of Chemistry,Արղության 10/15 ,yerevan_gis,DISWI5141,CLARITY_NODE,40.21345,44.511689,,2024-12-06 16:00:00,2025-12-01 22:00:00,False
+116,58,yerevan,nor-nork,"Gyurjyan street, 11/3","ք․ Երևան, Գյուրջյան 11/3",yerevan_gis,DAQTQ5862,CLARITY_NODE,40.1926,44.56238,,2024-11-25 16:00:00,2025-09-24 10:00:00,False
+117,93,yerevan,kanaker-zeytun,"Zakaria Kanakertsi Street, 141/3","ք․ Երևան, Քանաքեռցու 141/3",yerevan_gis,DENUU9926,CLARITY_NODE,40.229583,44.551058,,2024-11-25 16:00:00,2025-09-30 20:00:00,False
+118,55,yerevan,nor-nork,"Lvovyan street, 30","ք․ Երևան,   Նոր Նորք Լվովյան փ. 30 հողամաս",yerevan_gis,DSLZB1796,CLARITY_NODE,40.202491,44.559915,,2024-11-25 16:00:00,2025-08-16 04:00:00,False
+119,76,yerevan,nor-nork,"Tevosyan street, 1/5","ք․ Երևան, Հովհանես Թևոսյան 1/5",yerevan_gis,DQBIN9374,CLARITY_NODE,40.185929,44.57282,,2024-11-25 16:00:00,2025-10-16 04:00:00,False
+120,28,yerevan,avan,Kuchak,"ք. Երևան, Ալմա-Աթայի փ. հ.1/4",yerevan_gis,DACWA9824,CLARITY_NODE,40.218822,44.576525,,2024-11-25 16:00:00,2025-11-03 08:00:00,False
+121,93,yerevan,kanaker-zeytun,"Zakaria Kanakertsi Street, 141/3","ք․ Երևան, Քանաքեռցու 141/3",yerevan_gis,DNCFE9588,CLARITY_NODE,40.229327,44.550823,,2024-11-25 16:00:00,2025-09-30 20:00:00,False
+122,92,yerevan,davtashen,"4th quarter Davtashen, 46/12","Դավթաշեն 4-րդ թաղ․, 46/12",yerevan_gis,DYPCQ7947,CLARITY_NODE,40.228586,44.504157,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+123,51,yerevan,davtashen,"1st quarter Davtashen, 61",Դավթաշեն 1-ին թաղամաս 61,yerevan_gis,DGXRI2364,CLARITY_NODE,40.219206,44.486441,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+124,28,yerevan,avan,Kuchak,"ք. Երևան, Ալմա-Աթայի փ. հ.1/4",yerevan_gis,DVWCH7779,CLARITY_NODE,40.219185,44.575643,,2024-11-25 16:00:00,2025-04-15 06:00:00,False
+125,39,yerevan,nork-marash,"Nork Street, 19","ք. Երևան, Նորք 19",yerevan_gis,DVNPH2193,CLARITY_NODE,40.19189,44.542738,,2024-11-25 16:00:00,2025-09-30 16:00:00,False
+126,36,yerevan,davtashen,"10th street Davtashen, 15/5","ք. Երևան, Դավթաշեն 10-րդ փ. հ.15/5",yerevan_gis,DHBVD3360,CLARITY_NODE,40.220139,44.48396,,2024-11-25 16:00:00,2025-06-04 09:00:00,False
+127,58,yerevan,nor-nork,"Gyurjyan street, 11/3","ք․ Երևան, Գյուրջյան 11/3",yerevan_gis,DEFCG5828,CLARITY_NODE,40.192589,44.561654,,2024-11-25 16:00:00,2025-09-24 10:00:00,False
+128,51,yerevan,davtashen,"1st quarter Davtashen, 61","ՀՀ Ք.Երևան,  Դավթաշեն 1-ին թաղամաս 61",yerevan_gis,DIDDH8878,CLARITY_NODE,40.219126,44.485678,,2024-11-25 16:00:00,2025-10-31 07:00:00,False
+129,75,yerevan,nork-marash,"Norki Ayginer street, 180","ք․ Երևան, Նորքի Այգիներ 180",yerevan_gis,DIMLF2308,CLARITY_NODE,40.183089,44.536401,,2024-11-25 16:00:00,2025-04-18 16:00:00,False
+130,39,yerevan,nork-marash,"Nork Street, 19","ք. Երևան, Նորք 19",yerevan_gis,DZZRU3761,CLARITY_NODE,40.192033,44.543061,,2024-11-25 16:00:00,2025-09-15 19:00:00,False
+131,33,yerevan,kentron,"Gevorg Emin street, 6, 12","ք. Երևան, Գևորգ Էմին 12",yerevan_gis,DNHWJ9492,CLARITY_NODE,40.194414,44.509602,,2024-11-25 16:00:00,2025-06-25 22:00:00,False
+132,48,yerevan,ajapnyak,"Lukashina street, 37/47","ք. Երևան, Ս․ Լուկաշինի 37/47 ",yerevan_gis,DJZDY4081,CLARITY_NODE,40.19401,44.446711,,2024-11-25 16:00:00,2025-05-15 04:00:00,False
+133,66,yerevan,davtashen,"Pirumyanneri street, 7/6, 13",Փիրումյանների փ. 7/6 ,yerevan_gis,DCRGP4112,CLARITY_NODE,40.220359,44.495534,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+135,55,yerevan,nor-nork,"Lvovyan street, 30","ք․ Երևան,   Նոր Նորք Լվովյան փ. 30 հողամաս",yerevan_gis,DABEH2406,CLARITY_NODE,40.202362,44.559832,,2024-11-25 16:00:00,2025-08-16 04:00:00,False
+136,75,yerevan,nork-marash,"Norki Ayginer street, 180",Նորքի Այգիներ 180,yerevan_gis,DRWQD4757,CLARITY_NODE,40.183095,44.536303,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+137,79,yerevan,kentron,"Verin Antarayin Street, 144, 123/4, 125/4","ք․ Երևան,   Վ․ Անտառային փողոց հ․ 144 հողամաս",yerevan_gis,DLSZB7762,CLARITY_NODE,40.195397,44.513715,,2024-11-25 16:00:00,2025-08-16 04:00:00,False
+138,66,yerevan,davtashen,"Pirumyanneri street, 7/6, 13",Փիրումյաներ 13,yerevan_gis,DKZZE2240,CLARITY_NODE,40.219682,44.496958,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+139,66,yerevan,davtashen,"Pirumyanneri street, 7/6, 13",Փիրումյաներ 13,yerevan_gis,DXUCN3222,CLARITY_NODE,40.219706,44.49609,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+140,67,yerevan,davtashen,"4th quarter Davtashen, 31","ք․ Երևան,   Դավթաշեն Ա.Միկոյան 31",yerevan_gis,DFZDS8491,CLARITY_NODE,40.217598,44.494874,,2024-11-25 16:00:00,2025-03-04 16:00:00,False
+141,82,yerevan,kanaker-zeytun,"Gogol Street, 24/23","ք․ Երևան, Գոգոլի փ. 24/23",yerevan_gis,DHVQJ4213,CLARITY_NODE,40.197894,44.539424,,2024-11-25 16:00:00,2025-03-12 08:00:00,False
+142,133,yerevan,malatia-sebastia,"Tsitsernakaberd highway, 9/1",Ծիծեռնակաբերդի խճ. 9/1,yerevan_gis,DAQPW0821,CLARITY_NODE,40.179727,44.48422,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+143,134,yerevan,malatia-sebastia,"Leningradyan street , 19/11",Նոր Արեշի 26-րդ փ 45 շենք,yerevan_gis,DDQBG4377,CLARITY_NODE,40.189968,44.473776,,2024-12-16 17:00:00,2026-04-11 18:00:00,False
+144,71,yerevan,nor-nork,"David-Bek street, 105","ք․ Երևան,  Դավիթ Բեկի 105",yerevan_gis,DFZMU1615,CLARITY_NODE,40.170107,44.548831,,2024-11-25 16:00:00,2025-09-11 10:00:00,False
+145,80,yerevan,ajapnyak,"Grigor Hasratyan Street, 19",Գ.Հասրաթյան 19,yerevan_gis,DIUJP5671,CLARITY_NODE,40.195849,44.461971,,2024-11-25 16:00:00,2026-03-01 04:00:00,False
+146,94,yerevan,avan,"Acharyan Street, 37/1",Ավան Աճառյան 37/1,yerevan_gis,DTXJI3871,CLARITY_NODE,40.229663,44.556577,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+149,59,yerevan,ajapnyak,"Alabyan street, 20/1",Հալաբյան 20/16,yerevan_gis,DNHUJ4567,CLARITY_NODE,40.201205,44.480282,,2024-11-25 16:00:00,2026-01-22 07:00:00,False
+150,77,yerevan,nor-nork,"Gyurjyan street, 14/1","Նոր Նորք, Գյուրջյան փողոց 14/1",yerevan_gis,DSMVG0492,CLARITY_NODE,40.187989,44.555432,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+151,36,yerevan,davtashen,"10th street Davtashen, 15/5",,yerevan_gis,DNNKY6129,CLARITY_NODE,40.221149,44.484628,,2024-11-25 16:00:00,2025-05-12 09:00:00,False
+152,90,yerevan,davtashen,"Anastas Mikoyan Street, 107/4","ք․ Երևան,    Ա. Միկոյան փողոց հ․107/4",yerevan_gis,DMPCV1759,CLARITY_NODE,40.224853,44.506273,,2024-11-25 16:00:00,2025-08-16 04:00:00,False
+153,92,yerevan,davtashen,"4th quarter Davtashen, 46/12","Դավթաշեն 4-րդ թաղ․, 46/12",yerevan_gis,DXUYC8213,CLARITY_NODE,40.227693,44.50321,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+155,49,yerevan,kanaker-zeytun,"Karapet Ulnetsi street, 45/1","ՀՀ, ք․ Երևան,Կ․ Ուլնեցու 45/1",yerevan_gis,DZXUU3538,CLARITY_NODE,40.202509,44.533042,,2024-11-25 16:00:00,2025-05-13 16:00:00,False
+156,65,yerevan,kanaker-zeytun,"David Anhaght street, 6",Դավիթ Անհաղթ հ 6,yerevan_gis,DDSJJ2944,CLARITY_NODE,40.201765,44.532603,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+157,67,yerevan,davtashen,"4th quarter Davtashen, 31","ք․ Երևան,   Դավթաշեն Ա.Միկոյան 31",yerevan_gis,DCYBL6171,CLARITY_NODE,40.217109,44.494424,,2024-11-25 16:00:00,2025-03-04 16:00:00,False
+158,94,yerevan,avan,"Acharyan Street, 37/1",Ավան Աճառյան 37/1,yerevan_gis,DIWVR7506,CLARITY_NODE,40.23007,44.556424,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+159,49,yerevan,kanaker-zeytun,"Karapet Ulnetsi street, 45/1","ՀՀ, ք․ Երևան,Կ․ Ուլնեցու 45/1",yerevan_gis,DRYZY9931,CLARITY_NODE,40.202882,44.533607,,2024-11-25 16:00:00,2025-05-13 13:00:00,False
+160,85,yerevan,kanaker-zeytun,"Avetis Aharonyan Street, 2",Ահարոնյան 2,yerevan_gis,DSQKF1929,CLARITY_NODE,40.207908,44.532404,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+161,66,yerevan,davtashen,"Pirumyanneri street, 7/6, 13",Փիրումյանների փ. 7/6,yerevan_gis,DNLGJ0451,CLARITY_NODE,40.220032,44.496169,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+162,134,yerevan,malatia-sebastia,"Leningradyan street , 19/11",Լենինգրադյան փ. 19/11 և 5/4,yerevan_gis,DTQSG9333,CLARITY_NODE,40.189413,44.47347,,2024-12-16 17:00:00,2026-04-11 18:00:00,False
+163,31,yerevan,kanaker-zeytun,"Dro street, 22","Քանաքեռ-Զեյթուն, Դրոյի փ. հ.22",yerevan_gis,DQRWI9606,CLARITY_NODE,40.205636,44.544678,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+164,59,yerevan,ajapnyak,"Alabyan street, 20/1",Հալաբյան 20/1,yerevan_gis,DAWMP3930,CLARITY_NODE,40.201051,44.47991,,2024-11-25 16:00:00,2026-02-16 04:00:00,False
+165,85,yerevan,kanaker-zeytun,"Avetis Aharonyan Street, 2",Ահարոնյան 2,yerevan_gis,DPZLU2801,CLARITY_NODE,40.207516,44.53279,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+166,29,yerevan,kanaker-zeytun,"Dro street, 13/1","Քանաքեռ-Զեյթուն, Դրոյի փ. հ. 13/1",yerevan_gis,DIWGN3527,CLARITY_NODE,40.203171,44.541504,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+167,44,yerevan,kanaker-zeytun,"David Anhaght street, 25",Դ․ Անհաղթ h․25,yerevan_gis,DEEWK1417,CLARITY_NODE,40.200003,44.536476,,2024-11-25 16:00:00,2026-03-17 15:00:00,False
+169,45,yerevan,kanaker-zeytun,"Rubinyants street, 27/16",Ռուբինյանց 27/16,yerevan_gis,DMHSU5577,CLARITY_NODE,40.20648,44.552813,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+170,90,yerevan,davtashen,"Anastas Mikoyan Street, 107/4","ք․ Երևան,    Ա. Միկոյան փողոց հ․107/4",yerevan_gis,DJCYX4080,CLARITY_NODE,40.225458,44.506152,,2024-11-25 16:00:00,2025-08-16 04:00:00,False
+171,42,yerevan,malatia-sebastia,"Leningradyan street , 23/18",Լենինգրադյան 23/18,yerevan_gis,DCJGV0900,CLARITY_NODE,40.189063,44.472001,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+172,37,yerevan,arabkir,"Griboyedov street, 17",Գրիբոյեդովի 17,yerevan_gis,DDBZY8999,CLARITY_NODE,40.21069,44.513995,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+174,89,yerevan,avan,"Acharyan Street, 37/41","ք․ Երևան,   Աճառյան փողոց հ․37/41",yerevan_gis,DGWZI3926,CLARITY_NODE,40.220286,44.549814,,2024-11-25 16:00:00,2025-08-15 04:00:00,False
+175,29,yerevan,kanaker-zeytun,"Dro street, 13/1","Քանաքեռ-Զեյթուն, Դրոյի փ. հ. 13/1",yerevan_gis,DADDF8497,CLARITY_NODE,40.203692,44.540715,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+176,82,yerevan,kanaker-zeytun,"Gogol Street, 24/23","ք․ Երևան, Գոգոլի փ. 24/23",yerevan_gis,DSMWI7337,CLARITY_NODE,40.197735,44.538873,,2024-11-25 16:00:00,2025-03-12 08:00:00,False
+177,48,yerevan,ajapnyak,"Lukashina street, 37/47","ք. Երևան, Ս․ Լուկաշինի 37/47 ",yerevan_gis,DDKAS9056,CLARITY_NODE,40.193658,44.447,,2024-11-25 16:00:00,2025-05-15 04:00:00,False
+178,30,yerevan,malatia-sebastia,"Tsitsernakaberd highway, 1..4",Ծիծեռնակաբերդի խճ - 4,yerevan_gis,DETFB5758,CLARITY_NODE,40.18257,44.481232,,2024-11-25 16:00:00,2025-12-22 05:00:00,False
+179,40,yerevan,arabkir,"Svetlana Grigoryan street, 21",Հ. Էմինի փ. 1-ին նրբ. 23 ,yerevan_gis,DKBFQ1957,CLARITY_NODE,40.201072,44.515867,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+181,89,yerevan,avan,"Acharyan Street, 37/41","ք․ Երևան,   Աճառյան փողոց հ․37/41",yerevan_gis,DHEYY9062,CLARITY_NODE,40.220339,44.550733,,2024-11-25 16:00:00,2025-08-15 04:00:00,False
+182,56,yerevan,kentron,"Paronyan street, 15/5","ք․ Երևան,  Պարոնյան 15/5",yerevan_gis,DKDPZ6762,CLARITY_NODE,40.17912,44.499216,,2024-11-25 16:00:00,2025-05-05 10:00:00,False
+183,246,yerevan,arabkir,"Davit Oganes street, 16",,yerevan_gis,DQPEE8209,CLARITY_NODE,40.201929,44.508619,,2024-11-25 16:00:00,2026-03-16 04:00:00,False
+184,42,yerevan,malatia-sebastia,"Leningradyan street , 23/18",Լենինգրադյան 23/18,yerevan_gis,DUPKV6193,CLARITY_NODE,40.189605,44.471517,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+185,86,yerevan,arabkir,Near the Institute of Chemistry,Արղության 10/15 ,yerevan_gis,DCZEG8644,CLARITY_NODE,40.212904,44.512271,,2024-12-06 16:00:00,2025-12-01 22:00:00,False
+186,31,yerevan,kanaker-zeytun,"Dro street, 22","Քանաքեռ-Զեյթուն, Դրոյի փ. հ.22",yerevan_gis,DHXDH8620,CLARITY_NODE,40.205293,44.544327,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+187,74,yerevan,kentron,"Manuk Abeghyan street, 5",Մանուկ Աբեղյան 5 տուն,yerevan_gis,DMDLV0980,CLARITY_NODE,40.178973,44.525809,,2024-11-25 16:00:00,2026-03-01 04:00:00,False
+188,87,yerevan,arabkir,"Adonts Street, 19/4","ք․ Երևան, Ն. Ադոնցի փողոց 19/4",yerevan_gis,DXAXN2259,CLARITY_NODE,40.213219,44.518443,,2024-11-25 16:00:00,2025-11-07 12:00:00,False
+189,78,yerevan,arabkir,"Orbeli Brothers Street, 23",Օրբելի 23,yerevan_gis,DPRGK2893,CLARITY_NODE,40.193519,44.493397,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+190,44,yerevan,kanaker-zeytun,"David Anhaght street, 25",Դ․ Անհաղթ h․25,yerevan_gis,DTMAJ8003,CLARITY_NODE,40.200325,44.536883,,2024-11-25 16:00:00,2026-03-17 15:00:00,False
+191,34,yerevan,kentron,"Verin Antarain street, 136/2",Վերին Անտառային փ. 136/2,yerevan_gis,DERNX1436,CLARITY_NODE,40.197576,44.511123,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+192,80,yerevan,ajapnyak,"Grigor Hasratyan Street, 19",Գ.Հասրաթյան 19,yerevan_gis,DXRLZ6994,CLARITY_NODE,40.195894,44.46205,,2024-11-25 16:00:00,2026-03-01 04:00:00,False
+193,88,yerevan,arabkir,"Khapantsyan Street, 4/9",,yerevan_gis,DWACB2584,CLARITY_NODE,40.21599,44.522588,,2024-11-25 16:00:00,2025-08-20 08:00:00,False
+194,88,yerevan,arabkir,"Khapantsyan Street, 4/9","ք․ Երևան, Ղափանցյան 4/9",yerevan_gis,DKIVN4006,CLARITY_NODE,40.216414,44.52248,,2024-11-25 16:00:00,2025-09-30 17:00:00,False
+195,246,yerevan,arabkir,"Davit Oganes street, 16","ք․ Երևան, Ռ. Սևակի փ. 30/32",yerevan_gis,DSBTZ4028,CLARITY_NODE,40.201985,44.508868,,2024-11-25 16:00:00,2025-09-24 10:00:00,False
+196,79,yerevan,kentron,"Verin Antarayin Street, 144, 123/4, 125/4",Վ.Անտառային փ.123/4և 125/4  հողամաս,yerevan_gis,DWAXX3582,CLARITY_NODE,40.195678,44.512276,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+197,79,yerevan,kentron,"Verin Antarayin Street, 144, 123/4, 125/4","ք․ Երևան,   Վ․ Անտառային փողոց հ․ 144 հողամաս",yerevan_gis,DFJYG7679,CLARITY_NODE,40.194974,44.513207,,2024-11-25 16:00:00,2025-08-16 04:00:00,False
+199,40,yerevan,arabkir,"Svetlana Grigoryan street, 21",Հ. Էմինի փ. 1-ին նրբ. 23 ,yerevan_gis,DJBDR9588,CLARITY_NODE,40.201274,44.515686,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+200,34,yerevan,kentron,"Verin Antarain street, 136/2",Վերին Անտառային փ. 136/2,yerevan_gis,DVJBD7236,CLARITY_NODE,40.198153,44.509898,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+201,81,yerevan,kentron,"Verin Antarayin Street, 146/7","ք․ Երևան, Վերին Անտառային 146/7",yerevan_gis,DEBKM2841,CLARITY_NODE,40.196947,44.511526,,2024-11-25 16:00:00,2025-08-25 10:00:00,False
+202,73,yerevan,kentron,"Sergey Parajanov street, 8",Ս. Փարաջանովի փ. 8 ,yerevan_gis,DSQLJ6398,CLARITY_NODE,40.178361,44.500135,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+203,74,yerevan,kentron,"Manuk Abeghyan street, 5",Մանուկ Աբեղյան 5 տուն,yerevan_gis,DZCIN9955,CLARITY_NODE,40.179055,44.525881,,2024-11-25 16:00:00,2026-03-01 04:00:00,False
+204,87,yerevan,arabkir,"Adonts Street, 19/4",Ն. Ադոնցի փողոց 19/4,yerevan_gis,DEARB6557,CLARITY_NODE,40.213233,44.518601,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+205,30,yerevan,malatia-sebastia,"Tsitsernakaberd highway, 1..4",Ծիծեռնակաբերդի խճ - 3,yerevan_gis,DBJGM2682,CLARITY_NODE,40.182333,44.480884,,2024-11-25 16:00:00,2026-03-16 07:00:00,False
+206,50,yerevan,kentron,"Edvard Mirzoyan street, 5","ք․Երևան, Էդվարդ Միրզոյան 5",yerevan_gis,DGIJE1070,CLARITY_NODE,40.196353,44.507888,,2024-11-25 16:00:00,2025-05-12 09:00:00,False
+207,251,yerevan,kentron,"Antarayin Street, 154-156",Անտառային 154-156 ,yerevan_gis,DHMZP2748,CLARITY_NODE,40.193874,44.510538,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+208,33,yerevan,kentron,"Gevorg Emin street, 6, 12","ք. Երևան, Գևորգ Էմին 12",yerevan_gis,DMZDT9732,CLARITY_NODE,40.193993,44.50911,,2024-11-25 16:00:00,2025-06-25 14:00:00,False
+209,50,yerevan,kentron,"Edvard Mirzoyan street, 5",Էդվարդ Միրզոյան 5 ,yerevan_gis,DDGDZ7324,CLARITY_NODE,40.196105,44.50853,,2024-11-25 16:00:00,2026-01-16 04:00:00,False
+210,81,yerevan,kentron,"Verin Antarayin Street, 146/7","ք․ Երևան, Վերին Անտառային 146/7",yerevan_gis,DXIFK4964,CLARITY_NODE,40.196616,44.511492,,2024-11-25 16:00:00,2025-08-25 10:00:00,False
+211,30,yerevan,malatia-sebastia,"Tsitsernakaberd highway, 1..4",,yerevan_gis,DQXAQ6339,CLARITY_NODE,40.181398,44.480768,,2024-11-25 16:00:00,2026-03-30 10:00:00,False
+213,83,yerevan,arabkir,"Maro Margaryan Street, 7",Մարո Մարգարյան 7,yerevan_gis,DDDXI1494,CLARITY_NODE,40.199584,44.509644,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+214,61,yerevan,kentron,"Derenik Demirchyan street, 20-22",Դ.Դեմիրճյան փողոց 20-22    ,yerevan_gis,DZVAY7205,CLARITY_NODE,40.188695,44.507454,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+215,37,yerevan,arabkir,"Griboyedov street, 17","ք. Երևան, Գրիբոյեդովի 17",yerevan_gis,DYTXC0986,CLARITY_NODE,40.211421,44.512735,,2024-11-25 16:00:00,2025-07-21 07:00:00,False
+216,61,yerevan,kentron,"Derenik Demirchyan street, 20-22",Դ.Դեմիրճյան փողոց 20-22    ,yerevan_gis,DBTIH2735,CLARITY_NODE,40.18868,44.506769,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+217,79,yerevan,kentron,"Verin Antarayin Street, 144, 123/4, 125/4",Վ.Անտառային փ.123/4և 125/4  հողամաս,yerevan_gis,DZUYW6771,CLARITY_NODE,40.19533,44.512448,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+218,245,yerevan,malatia-sebastia,"Tsitsernakaberd highway, 11/1","Ծիծեռնակաբերդի խճղ., 11/1",yerevan_gis,DBUSN1566,CLARITY_NODE,40.181138,44.482055,,2024-11-25 16:00:00,2025-12-16 09:00:00,False
+219,33,yerevan,kentron,"Gevorg Emin street, 6, 12",Գևորգ Էմինի փողոց 6,yerevan_gis,DQQZR9142,CLARITY_NODE,40.194601,44.509852,,2024-11-25 16:00:00,2026-03-31 04:00:00,False
+220,30,yerevan,malatia-sebastia,"Tsitsernakaberd highway, 1..4",Ծիծեռնակաբերդի խճ - 1,yerevan_gis,DTWVL0717,CLARITY_NODE,40.181915,44.481152,,2024-11-25 16:00:00,2026-02-26 20:00:00,False
+221,251,yerevan,kentron,"Antarayin Street, 154-156","ք․ Երևան, Անտառային 154-156",yerevan_gis,DPTBQ0362,CLARITY_NODE,40.19362,44.510298,,2024-11-25 16:00:00,2025-10-07 07:00:00,False
+222,250,yerevan,kentron,"Antarayin Street, 164/2",Անտառային 164/2,yerevan_gis,DBPRG2226,CLARITY_NODE,40.194212,44.508743,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+223,133,yerevan,malatia-sebastia,"Tsitsernakaberd highway, 9/1","ք․ Երևան,   Ծիծեռնակաբերդի խճ. 9/1",yerevan_gis,DEJPA4447,CLARITY_NODE,40.179791,44.484947,,2024-11-25 16:00:00,2025-06-17 10:00:00,False
+224,72,yerevan,kentron,"Khanjyan street, 7/2",Խանջյան 7/2,yerevan_gis,DGZPK5230,CLARITY_NODE,40.174033,44.516316,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+225,248,yerevan,kentron,"Rafael Israelyan Street, 41",Իսրայելյան 41,yerevan_gis,DPPJN2027,CLARITY_NODE,40.178392,44.501001,,2024-11-27 17:00:00,2026-04-11 18:00:00,False
+226,246,yerevan,arabkir,"Davit Oganes street, 16",,yerevan_gis,DIGQF0442,CLARITY_NODE,40.202092,44.508796,,2024-11-25 16:00:00,2026-03-16 04:00:00,False
+227,250,yerevan,kentron,"Antarayin Street, 164/2",Անտառային 164/2,yerevan_gis,DJEHP7348,CLARITY_NODE,40.194102,44.508729,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+228,78,yerevan,arabkir,"Orbeli Brothers Street, 23",Օրբելի 23,yerevan_gis,DZRTD4449,CLARITY_NODE,40.192768,44.496073,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+229,47,yerevan,kentron,"Aram street, 32",Արամի 32,yerevan_gis,DTKWP1685,CLARITY_NODE,40.18123,44.513889,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+230,72,yerevan,kentron,"Khanjyan street, 7/2",Խանջյան 7/2,yerevan_gis,DRSDU7948,CLARITY_NODE,40.174163,44.516232,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+231,246,yerevan,arabkir,"Davit Oganes street, 16","ք․ Երևան, Ռ. Սևակի փ. 30/32",yerevan_gis,DVCPY4588,CLARITY_NODE,40.201658,44.508831,,2024-11-25 16:00:00,2025-09-24 10:00:00,False
+233,135,yerevan,kentron,"Tigran Mets avenue, 15","Կենտրոն վարչական շրջան, 33-րդ,թաղամաս, լոտեր՝ 10-11-12",yerevan_gis,DJIGQ6663,CLARITY_NODE,40.174953,44.514403,,2024-12-12 12:00:00,2026-04-11 18:00:00,False
+234,56,yerevan,kentron,"Paronyan street, 15/5",Պարոնյան 15/5,yerevan_gis,DALJL4933,CLARITY_NODE,40.180281,44.499183,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+235,248,yerevan,kentron,"Rafael Israelyan Street, 41",Իսրայելյան 41,yerevan_gis,DQRXZ7486,CLARITY_NODE,40.178387,44.501193,,2024-11-27 17:00:00,2026-04-11 18:00:00,False
+236,47,yerevan,kentron,"Aram street, 32",Արամի 32,yerevan_gis,DPHGS0528,CLARITY_NODE,40.180954,44.513608,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+237,135,yerevan,kentron,"Tigran Mets avenue, 15","Կենտրոն վարչական շրջան, 33-րդ,թաղամաս, լոտեր՝ 10-11-12",yerevan_gis,DQXUC3608,CLARITY_NODE,40.174153,44.514431,,2024-12-12 12:00:00,2026-04-11 18:00:00,False
+238,68,yerevan,shengavit,"Frunze street, 10/4","ք․ Երևան, Մ․ Ֆրունզեի 10/4",yerevan_gis,DNILK5927,CLARITY_NODE,40.148484,44.493498,,2024-11-25 16:00:00,2025-07-01 04:00:00,False
+239,64,yerevan,kentron,"Arshakunyats avenue, 9/2",Արշակունյաց 9/2,yerevan_gis,DFJWB2382,CLARITY_NODE,40.166703,44.506554,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+240,38,yerevan,shengavit,"Arshakunyats avenue, 192","ք․ Երևան, Արշակունյաց պողոտա 192",yerevan_gis,DDGDP6324,CLARITY_NODE,40.144987,44.496617,,2024-11-25 16:00:00,2025-06-15 04:00:00,False
+241,244,yerevan,shengavit,"Arshakunyats Avenue, 33/2","ք․ Երևան, Արշակունյաց 33 ,33/2",yerevan_gis,DDYQM1120,CLARITY_NODE,40.157477,44.503175,,2024-11-25 16:00:00,2025-09-30 20:00:00,False
+242,46,yerevan,shengavit,"Arshakunyats Avenue, 27/3",Արշակունյաց 27/3,yerevan_gis,DUHPI8625,CLARITY_NODE,40.157646,44.504469,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+243,64,yerevan,kentron,"Arshakunyats avenue, 9/2",Արշակունյաց 9/2 ,yerevan_gis,DCECC3579,CLARITY_NODE,40.16669,44.508234,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+244,243,yerevan,kentron,"Arshakunyats avenue, 11/4","ք․ Երևան, Արշակունյաց 11/4",yerevan_gis,DFXCV9419,CLARITY_NODE,40.167501,44.507287,,2024-11-25 16:00:00,2025-10-01 00:00:00,False
+245,244,yerevan,shengavit,"Arshakunyats Avenue, 33/2","ք․ Երևան, Արշակունյաց 33 ,33/2",yerevan_gis,DDQBM5249,CLARITY_NODE,40.158154,44.502631,,2024-11-25 16:00:00,2025-09-30 20:00:00,False
+246,243,yerevan,kentron,"Arshakunyats avenue, 11/4","ք․ Երևան, Արշակունյաց 11/4",yerevan_gis,DFRAH8659,CLARITY_NODE,40.166701,44.506045,,2024-11-25 16:00:00,2025-10-01 00:00:00,False
+247,38,yerevan,shengavit,"Arshakunyats avenue, 192","ք․ Երևան, Արշակունյաց պողոտա 192",yerevan_gis,DRCFM5700,CLARITY_NODE,40.14486,44.497045,,2024-11-25 16:00:00,2025-06-15 04:00:00,False
+248,41,yerevan,malatia-sebastia,"Isakov Avenue, 22/1",Իսակովի 22/1,yerevan_gis,DXZFS6100,CLARITY_NODE,40.157575,44.459894,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+249,46,yerevan,shengavit,"Arshakunyats Avenue, 27/3",Արշակունյաց 27/3,yerevan_gis,DVBEJ8996,CLARITY_NODE,40.157959,44.504909,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+250,41,yerevan,malatia-sebastia,"Isakov Avenue, 22/1",Իսակովի 22/1,yerevan_gis,DQHQF5746,CLARITY_NODE,40.157701,44.46107,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+251,68,yerevan,shengavit,"Frunze street, 10/4","ք․ Երևան, Մ․ Ֆրունզեի 10/4",yerevan_gis,DGMHN9316,CLARITY_NODE,40.148754,44.493423,,2024-11-25 16:00:00,2025-06-30 04:00:00,False
+252,62,yerevan,shengavit,"Hayk Hovsepyan street, 31","ք․ Երևան, Հ.Հովսեփյան 31",yerevan_gis,DVDGW3773,CLARITY_NODE,40.147822,44.480929,,2024-11-25 16:00:00,2025-05-19 08:00:00,False
+253,70,yerevan,malatia-sebastia,"Zoravar Andranik street, 121/6","ք․ Երևան, Զորավար Անդրանիկի փ․ 121/6",yerevan_gis,DNJML2195,CLARITY_NODE,40.166821,44.446097,,2024-11-25 16:00:00,2025-10-13 13:00:00,False
+254,35,yerevan,shengavit,"Garegin Nzhdeh Street, 15/1","ք․Երևան, Գ․ Նժդեհ 15/1",yerevan_gis,DPRZF2958,CLARITY_NODE,40.151925,44.486616,,2024-11-25 16:00:00,2026-01-12 13:00:00,False
+255,70,yerevan,malatia-sebastia,"Zoravar Andranik street, 121/6","ք․ Երևան, Զորավար Անդրանիկի փ․ 121/6",yerevan_gis,DDZLB1609,CLARITY_NODE,40.166857,44.44647,,2024-11-25 16:00:00,2025-10-13 13:00:00,False
+256,32,yerevan,shengavit,"Artashat Highway, 101/2","ք․ Երևան, Արտաշատի խճ․101/2",yerevan_gis,DWXDC2269,CLARITY_NODE,40.108538,44.470834,,2024-11-25 16:00:00,2025-07-11 17:00:00,False
+257,62,yerevan,shengavit,"Hayk Hovsepyan street, 31",Հ.Հովսեփյան 31,yerevan_gis,DBTYK4585,CLARITY_NODE,40.147693,44.479588,,2024-11-25 16:00:00,2026-04-11 18:00:00,False
+258,32,yerevan,shengavit,"Artashat Highway, 101/2","ք․ Երևան, Արտաշատի խճ․101/2",yerevan_gis,DTYQT4045,CLARITY_NODE,40.109151,44.471606,,2024-11-25 16:00:00,2025-07-11 17:00:00,False
+259,95,yerevan,arabkir,"Khapantsyan street, 13","ք. Երևան, Տիգրան Պետրոսյան 31/12",yerevan_gis,DTMXP9985,CLARITY_NODE,40.217206,44.520681,,2024-12-25 13:00:00,2025-10-16 08:00:00,False
+260,95,yerevan,arabkir,"Khapantsyan street, 13","ք. Երևան, Տիգրան Պետրոսյան 31/12",yerevan_gis,DGIPP3404,CLARITY_NODE,40.216703,44.520668,,2024-12-25 13:00:00,2025-10-16 11:00:00,False
+261,96,yerevan,kentron,Khorenatsi street,English Park (ArmAqi.org),sensor_community,90849,SDS011,40.174,44.51,973.3,2024-12-27 18:41:08,2025-11-21 12:07:39,False
+262,97,yerevan,kentron,Tsaturyan street,Tsaturyan street (ArmAqi.org),sensor_community,90858,SDS011,40.162,44.518,976.9,2024-12-28 01:58:23,2025-02-23 17:02:42,False
+264,98,yerevan,kanaker-zeytun,Surenyan street,Surenyan st (ArmAqi.org),sensor_community,90872,SDS011,40.203489,44.52629,1191.5,2024-12-28 21:37:16,2026-04-09 16:13:06,False
+268,100,yerevan,nor-nork,"Ashot Hovhannisyan street, 21","ք. Երևան, Աշոտ Հովհաննիսյան 21",yerevan_gis,DPWHJ0148,CLARITY_NODE,40.192423,44.575337,,2024-12-30 12:00:00,2025-08-11 03:00:00,False
+270,58,yerevan,nor-nork,"Gyurjyan street, 11/3",Magas,clarity,DAQTQ5862,CLARITY,40.1926,44.56238,,2024-09-19 10:00:00,2025-09-24 10:00:00,False
+271,67,yerevan,davtashen,"4th quarter Davtashen, 31",Yeghvard Hwy,clarity,DCYBL6171,CLARITY,40.217109,44.494424,,2024-08-09 16:00:00,2025-03-04 16:00:00,False
+272,86,yerevan,arabkir,Near the Institute of Chemistry,Armstory,clarity,DCZEG8644,CLARITY,40.212904,44.512271,,2024-12-06 16:00:00,2025-12-15 11:00:00,False
+273,70,yerevan,malatia-sebastia,"Zoravar Andranik street, 121/6",Arm construct,clarity,DDZLB1609,CLARITY,40.166857,44.44647,,2024-08-15 09:00:00,2025-10-13 13:00:00,False
+274,67,yerevan,davtashen,"4th quarter Davtashen, 31",Yeghvard Hwy,clarity,DFZDS8491,CLARITY,40.217598,44.494874,,2024-08-09 16:00:00,2025-03-04 16:00:00,False
+275,75,yerevan,nork-marash,"Norki Ayginer street, 180",Technotun,clarity,DIMLF2308,CLARITY,40.183089,44.536401,,2024-09-06 17:00:00,2025-04-18 01:00:00,False
+276,86,yerevan,arabkir,Near the Institute of Chemistry,Armstory,clarity,DISWI5141,CLARITY,40.21345,44.511689,,2024-12-06 16:00:00,2025-12-15 11:00:00,False
+277,94,yerevan,avan,"Acharyan Street, 37/1",Hrach ev Ruben,clarity,DIWVR7506,CLARITY,40.23007,44.556424,,2024-08-30 09:00:00,2026-04-11 19:00:00,False
+278,90,yerevan,davtashen,"Anastas Mikoyan Street, 107/4",Yeghvard Hwy,clarity,DJCYX4080,CLARITY,40.225458,44.506152,,2024-08-06 16:00:00,2025-09-18 11:00:00,False
+279,250,yerevan,kentron,"Antarayin Street, 164/2",Harutyun Margaryan,clarity,DJEHP7348,CLARITY,40.194102,44.508729,,2024-08-06 10:00:00,2026-04-11 19:00:00,False
+280,66,yerevan,davtashen,"Pirumyanneri street, 7/6, 13",Pars,clarity,DKZZE2240,CLARITY,40.219682,44.496958,,2024-07-25 16:00:00,2026-04-11 19:00:00,False
+281,90,yerevan,davtashen,"Anastas Mikoyan Street, 107/4",Yeghvard Hwy,clarity,DMPCV1759,CLARITY,40.224853,44.506273,,2024-08-06 16:00:00,2025-09-18 11:00:00,False
+282,66,yerevan,davtashen,"Pirumyanneri street, 7/6, 13", Pirumyanshin,clarity,DNLGJ0451,CLARITY,40.220032,44.496169,,2024-10-15 11:00:00,2026-04-11 19:00:00,False
+283,92,yerevan,davtashen,"4th quarter Davtashen, 46/12",Pavilion,clarity,DXUYC8213,CLARITY,40.227693,44.50321,,2024-10-02 10:00:00,2026-04-11 19:00:00,False
+284,92,yerevan,davtashen,"4th quarter Davtashen, 46/12",Pavilion,clarity,DYPCQ7947,CLARITY,40.228586,44.504157,,2024-10-02 10:00:00,2026-04-11 19:00:00,False
+286,79,yerevan,kentron,"Verin Antarayin Street, 144, 123/4, 125/4",Park residence,clarity,DZUYW6771,CLARITY,40.19533,44.512448,,2024-08-06 15:00:00,2026-04-11 19:00:00,False
+289,100,yerevan,nor-nork,"Ashot Hovhannisyan street, 21",Աշոտ Հովհաննիսյան 21 ,yerevan_gis,DQYBQ6469,CLARITY_NODE,40.193365,44.57405,,2025-01-10 12:00:00,2026-04-11 18:00:00,False
+296,103,yerevan,kentron,Residential Complex Horizon (Dalma),Վերֆելի 40/2,yerevan_gis,DAUEZ7315,CLARITY_NODE,40.177902,44.48874,,2025-01-16 17:00:00,2026-01-30 11:00:00,False
+297,103,yerevan,kentron,Residential Complex Horizon (Dalma),Վերֆելի 40/2,yerevan_gis,DLJLI0227,CLARITY_NODE,40.177805,44.48915,,2025-01-16 17:00:00,2026-01-30 11:00:00,False
+298,110,yerevan,nor-nork,Shopron street,"Yerevan, V. Sargsyan",climate_net,8,climatenet-v1,40.185285,44.56002,,2023-11-16 21:12:30,2026-04-11 19:15:00,False
+309,106,yerevan,ajapnyak,Tumo,"Yerevan, TUMO",climate_net,14,climatenet-v1,40.197641,44.479521,,2024-07-04 16:30:00,2026-04-11 19:15:00,False
+327,105,yerevan,kentron,Mashtots 2A,"ք. Երևան, Մաշտոցի 2Ա",yerevan_gis,DMBWL0424,CLARITY_NODE,40.175078,44.502197,,2025-01-17 11:00:00,2025-01-31 05:00:00,False
+328,105,yerevan,kentron,Mashtots 2A,Մաշտոցի 2Ա,yerevan_gis,DQURV2387,CLARITY_NODE,40.175789,44.502492,,2025-01-17 11:00:00,2026-01-31 11:00:00,False
+329,245,yerevan,malatia-sebastia,"Tsitsernakaberd highway, 11/1","Ծիծեռնակաբերդի խճղ., 11/1",yerevan_gis,DXYBQ3763,CLARITY_NODE,40.185428,44.477703,,2025-01-17 12:00:00,2026-04-11 18:00:00,False
+330,107,yerevan,erebuni,Sofia street,Sofia st. (ArmAqi.org),sensor_community,91307,SDS011,40.136,44.524,975.7,2025-01-17 19:03:32,2026-04-11 19:12:24,False
+334,109,yerevan,arabkir,Nairi Zaryan street,Nairi Zaryan street (ArmAqi.org),sensor_community,91358,SDS011,40.203324,44.517009,1167.3,2025-01-19 18:41:40,2026-02-03 17:21:58,False
+338,127,yerevan,kentron,Tigran Mets avenue,проспект Тигран Мец,sensor_community,91423,SDS011,40.175247,44.513577,980.9,2025-01-23 16:08:26,2025-03-24 12:57:44,False
+340,128,yerevan,avan,David Malyan street,David Malyan st (Armaqi.org),sensor_community,91434,SDS011,40.208872,44.56487,1247.3,2025-01-23 21:35:46,2025-11-23 21:41:43,False
+341,129,yerevan,erebuni,27th street of Nor Aresh,Նոր Արեշի 26-րդ փ 45 շենք,yerevan_gis,DGZII4319,CLARITY_NODE,40.139712,44.526841,,2025-01-24 12:00:00,2026-04-11 18:00:00,False
+342,130,yerevan,kentron,Arshakunyats avenue,Արշակունյաց 1 նրբ. 36 ,yerevan_gis,DMAVX0837,CLARITY_NODE,40.166494,44.503233,,2025-01-24 13:00:00,2026-04-11 18:00:00,False
+344,131,yerevan,erebuni,Erebuni street,Erebuni st (ArmAqi.org),sensor_community,91480,SDS011,40.141538,44.519747,973.3,2025-01-25 12:31:31,2025-03-13 19:13:48,False
+346,132,yerevan,kentron,Nalbandyan street,Nalbandyan st (Armaqi.org),sensor_community,91482,SDS011,40.182048,44.521456,1006.1,2025-01-25 15:04:41,2025-04-06 13:14:13,False
+348,136,yerevan,kentron,Cascade,Cascade (Armaqi.org),sensor_community,91487,SDS011,40.19031,44.516224,1018.0,2025-01-25 17:32:53,2025-05-14 09:05:25,False
+351,130,yerevan,kentron,Arshakunyats avenue,Արշակունյաց 1 նրբ. 36 ,yerevan_gis,DCPLP3310,CLARITY_NODE,40.166159,44.50266,,2025-01-30 12:00:00,2026-04-11 18:00:00,False
+352,129,yerevan,erebuni,27th street of Nor Aresh,Նոր Արեշի 26-րդ փ 45 շենք,yerevan_gis,DMCWK5446,CLARITY_NODE,40.139599,44.526801,,2025-01-30 12:00:00,2026-04-11 18:00:00,False
+356,137,yerevan,nor-nork,Moldovakan street,Moldovakan street,sensor_community,91627,SDS011,40.19888,44.574142,1338.3,2025-02-01 11:05:49,2026-04-11 19:13:50,False
+357,140,yerevan,arabkir,Halabyan Street,Halabyan Street,iqair,baa960fbcea715c4c42e,iqair,40.1996,44.4919,,2025-01-03 04:00:00,2025-08-16 14:00:00,False
+362,143,yerevan,arabkir,,Rio Mall GB,iqair,6749343e92ed1963a2c7cd1c,iqair,40.2011,44.5057,,2025-01-03 04:00:00,2025-07-08 01:00:00,False
+365,141,yerevan,nork-marash,,Nork,iqair,678dbbbf964d83ced1bfbfbf,iqair,40.1797,44.5424,,2025-01-20 04:00:00,2026-04-11 19:00:00,False
+369,146,yerevan,nor-nork,Novem Residence,Novem Residence (Bagrevand),iqair,6773c3b0550dc6be50de1421,iqair,40.207,44.5804,,2025-01-07 04:00:00,2026-04-11 19:00:00,False
+370,105,yerevan,kentron,Mashtots 2A,Մաշտոցի 2Ա,yerevan_gis,DQINV8720,CLARITY_NODE,40.175078,44.502197,,2025-02-05 15:00:00,2026-01-31 10:00:00,False
+371,147,yerevan,arabkir,Arghutyan 22,"Arabkir, Arghutyan 22",iqair,67a4860c41d449dcc57e726b,iqair,40.2111,44.5102,,2025-02-06 04:00:00,2026-04-11 19:00:00,False
+372,148,yerevan,kentron,Khorurdarani street,Արգիշտի 11/15,yerevan_gis,DMRTM0038,CLARITY_NODE,40.171081,44.503384,,2025-02-06 18:00:00,2026-04-11 18:00:00,False
+373,148,yerevan,kentron,Khorurdarani street,Արգիշտի 11/15,yerevan_gis,DWUBF6193,CLARITY_NODE,40.171361,44.503418,,2025-02-06 18:00:00,2026-04-11 18:00:00,False
+375,152,yerevan,ajapnyak,Sisakyan street,"Sisakyan street, Ajapnyak, Armenia",sensor_community,82924,SDS011,40.195459,44.469631,1047.1,2023-09-08 17:59:40,2025-04-15 15:11:33,False
+378,154,yerevan,erebuni,Sofia street,"Sofia street, Erebuni, Armenia",sensor_community,82965,SDS011,40.135879,44.524369,,2023-09-12 13:24:51,2024-10-15 12:03:57,False
+380,156,yerevan,arabkir,Yerznkyan street,"Yerznkian street, Arabkir, Armenia",sensor_community,85005,SDS011,40.193969,44.493296,,2023-12-30 14:05:32,2024-08-28 12:32:48,False
+382,155,yerevan,kentron,In Yerevantsu street,"Kentron, Yerevan, Armenia",sensor_community,34988,SDS011,40.182,44.516,,2019-11-23 22:31:23,2024-06-26 08:18:51,False
+384,104,yerevan,nor-nork,Djuhai street,"Jughayi street, Nor Norq, Armenia",sensor_community,78920,SDS011,40.195959,44.560054,,2023-03-01 18:30:13,2023-09-19 01:07:50,False
+419,166,yerevan,malatia-sebastia,"Isakov Avenue, 27/6","ք. Երևան, Իսակով 19/1",yerevan_gis,DVWXZ8104,CLARITY_NODE,40.158154,44.464906,,2025-02-14 14:00:00,2025-03-28 15:00:00,False
+420,166,yerevan,malatia-sebastia,"Isakov Avenue, 27/6",Իսակով 19/1,yerevan_gis,DUKZI2698,CLARITY_NODE,40.158068,44.464461,,2025-02-14 15:00:00,2026-02-15 11:00:00,False
+431,168,yerevan,arabkir,Nikoghayos Tigranyan street,"34, улица Толбухина, Арабкир, Ереван, 0014, Армения",armaqi,245,armaqi,40.210808,44.522174,,2025-02-06 16:00:00,2026-04-11 19:12:26,False
+434,169,yerevan,kanaker-zeytun,"Azatutyan ave, 26/1","ք. Երևան, Ազատություն 26/1",yerevan_gis,DLTCR3905,CLARITY_NODE,40.210914,44.531371,,2025-02-26 16:00:00,2025-04-03 16:00:00,False
+435,169,yerevan,kanaker-zeytun,"Azatutyan ave, 26/1",Ծովակալ Իսակովի 15/14,yerevan_gis,DKKTX5685,CLARITY_NODE,40.210632,44.531128,,2025-02-26 16:00:00,2026-04-11 18:00:00,False
+437,170,yerevan,kentron,Pushkin street,"42, улица Пушкина, Кентрон, Ереван, 0002, Армения",armaqi,262,armaqi,40.183072,44.512341,,2025-02-27 20:00:00,2026-01-26 10:39:36,False
+438,172,yerevan,nor-nork,Galshoyan street,"36, Mushegh Galshoyan street, Nor Nork Block 5, Nor Norq, Yerevan, 0079, Armenia",armaqi,263,armaqi,40.17942,44.566576,,2025-03-01 13:00:00,2026-04-11 19:12:16,False
+440,174,yerevan,kentron,Tumanyan street,Naha ArmAQI,armaqi,265,armaqi,40.183199,44.516718,,2025-03-02 15:00:00,2025-11-09 13:39:01,False
+441,171,yerevan,avan,Noravan Hamatirutyun,Noravan Hamatirutyun,iqair,5365245c3aa1d7ad6022,iqair,40.2185,44.5502,,2025-03-02 04:00:00,2026-04-11 19:00:00,False
+443,325,yerevan,nor-nork,5/5 David Bek Street,Դավթաշեն Ա.Միկոյան 31,yerevan_gis,DAUKJ6352,CLARITY_NODE,40.183159,44.562909,,2025-03-04 17:00:00,2026-04-11 18:00:00,False
+444,325,yerevan,nor-nork,5/5 David Bek Street,Դավթաշեն Ա.Միկոյան 31,yerevan_gis,DLWBC8980,CLARITY_NODE,40.183174,44.562875,,2025-03-04 17:00:00,2026-04-11 18:00:00,False
+446,327,yerevan,kentron,"9, 11 Gohar Gasparyan Street","Գոհար Գասպարյան 9, 11",yerevan_gis,DQQCF9640,CLARITY_NODE,40.194121,44.513815,,2025-03-12 09:00:00,2026-04-11 18:00:00,False
+448,177,yerevan,kentron,Sayat-Nova Ave x Charents St,AQI at Sayat-Nova Ave x Charents St by FRANKYANTS.ORG,purple_air,252917,PURPLE_AIR,40.17663,44.527847,,2025-03-15 08:54:47,2026-04-11 19:13:18,False
+449,137,yerevan,nor-nork,Moldovakan street,"43/3, улица Молдовакан, Багреванд, Нор Норк, Ереван, 0062, Армения",armaqi,272,armaqi,40.198965,44.574436,,2025-03-15 18:00:00,2025-03-16 22:53:15,False
+450,21,yerevan,kentron,Kond,Saryan 24B,armaqi,273,armaqi,40.184167,44.504226,,2025-03-15 20:00:00,2025-08-19 14:14:11,False
+452,7,yerevan,arabkir,st. Hayrik Muradyan,Yerevan Hayrik Muradyan 42/2,armaqi,275,armaqi,40.203249,44.515497,,2025-03-15 21:00:00,2025-11-25 13:01:04,False
+453,14,yerevan,kanaker-zeytun,Babayan street,"Green Green, 6A, улица Бабаяна, Канакер-Зейтун, Ереван, 0037, Армения",armaqi,277,armaqi,40.198116,44.521262,,2025-03-16 19:00:00,2026-04-11 19:13:13,False
+456,152,yerevan,ajapnyak,Sisakyan street,"Сисакян 22, Ачапняк, Ереван",armaqi,279,armaqi,40.195567,44.470013,,2025-03-16 22:00:00,2025-04-15 15:11:38,False
+459,12,yerevan,arabkir,Keru street,"55, Qeri street, Arabkir, Yerevan, 0028, Armenia",armaqi,281,armaqi,40.201,44.487,,2025-03-18 01:00:00,2026-04-11 19:12:51,False
+460,186,yerevan,arabkir,"Nairi Zaryan street, 13",Նաիրի Զարյան փ. 11-13,yerevan_gis,DYJXA0415,CLARITY_NODE,40.204893,44.510939,,2025-03-18 18:00:00,2026-04-11 18:00:00,False
+461,186,yerevan,arabkir,"Nairi Zaryan street, 13",Նաիրի Զարյան փ. 11-13,yerevan_gis,DMIDV1718,CLARITY_NODE,40.204802,44.510595,,2025-03-18 18:00:00,2026-04-11 18:00:00,False
+462,5,yerevan,shengavit,Chekhov Street,"улица Чехова, 3-րդ մաս, Шенгавит, Ереван",armaqi,193,armaqi,40.152,44.479,,2025-01-24 15:00:00,2025-06-04 15:47:11,False
+463,107,yerevan,erebuni,Sofia street,"85, улица София, Нор Ареш, Эребуни, Ереван, 0020, Армения",armaqi,199,armaqi,40.135866,44.524388,,2025-01-25 00:00:00,2026-04-11 19:12:25,False
+464,185,yerevan,arabkir,Nikol Duman street,"43, Nikol Duman street, Arabkir, Yerevan, 0028, Armenia",armaqi,287,armaqi,40.201,44.488,,2025-03-20 22:00:00,2026-04-11 19:11:52,False
+467,211,yerevan,arabkir,Aram Khachaturyan Street,"1, улица Арама Хачатуряна, Арабкир, Ереван, 0033, Армения",armaqi,291,armaqi,40.202579,44.491031,,2025-03-24 18:00:00,2026-04-11 19:11:23,False
+468,4,yerevan,arabkir,Aygektsi street,"15, улица Арама Хачатуряна, Арабкир, Ереван, 0012, Армения",armaqi,292,armaqi,40.205249,44.498138,,2025-03-24 21:00:00,2026-04-11 19:11:58,False
+469,166,yerevan,malatia-sebastia,"Isakov Avenue, 27/6",Իսակով 19/1,yerevan_gis,DMJIN5083,CLARITY_NODE,40.158154,44.464906,,2025-03-28 16:00:00,2026-02-15 11:00:00,False
+473,132,yerevan,kentron,Nalbandyan street,"27, проспект Саят-Нова, Кентрон, Ереван, 0001, Армения",armaqi,295,armaqi,40.182006,44.521536,,2025-04-06 13:00:00,2026-04-11 19:12:05,False
+474,169,yerevan,kanaker-zeytun,"Azatutyan ave, 26/1",Ազատություն 26/1,yerevan_gis,DRXEI4324,CLARITY_NODE,40.210914,44.531371,,2025-04-07 17:00:00,2026-04-11 18:00:00,False
+475,17,yerevan,malatia-sebastia,Sebastia street,"3/3, улица Себастия, Աջափնյակ, Малатия-Себастия, Ереван, 0031, Армения",armaqi,297,armaqi,40.189,44.463,,2025-04-09 16:00:00,2026-04-11 19:12:13,False
+503,192,yerevan,arabkir,Grachya Kochara street 13,Nkarichneri shenq,air_gradient,123531,air_gradient,40.200467,44.49794,,2025-02-11 03:00:00,2026-04-11 19:15:41,False
+504,75,yerevan,nork-marash,"Norki Ayginer street, 180",Նորքի Այգիներ 180,yerevan_gis,DLVDC6297,CLARITY_NODE,40.183089,44.536401,,2025-04-21 17:00:00,2025-12-15 12:00:00,False
+505,56,yerevan,kentron,"Paronyan street, 15/5","ք․ Երևան,  Պարոնյան 15/5",yerevan_gis,DEGYD0373,CLARITY_NODE,40.17912,44.499216,,2025-05-08 14:00:00,2025-05-29 08:00:00,False
+509,195,yerevan,shengavit,"Chekhov Street, 39","39, улица Чехова, 3-րդ մաս, Шенгавит, Ереван, 0039, Армения",armaqi,258,armaqi,40.14983,44.475266,,2025-02-21 19:00:00,2026-04-11 19:11:08,False
+510,197,yerevan,shengavit,Sevan St. 21/4,Սևանի փ.21/4,yerevan_gis,DGGYT8080,CLARITY_NODE,40.15319,44.504287,,2025-05-21 14:00:00,2026-04-11 18:00:00,False
+511,197,yerevan,shengavit,Sevan St. 21/4,"ք. Երևան, Սևանի փ.21/4",yerevan_gis,DYPFH8492,CLARITY_NODE,40.15162,44.503721,,2025-05-21 14:00:00,2025-08-04 07:00:00,False
+512,198,yerevan,malatia-sebastia,"Monte Melkonyan street, 2",Մ. Մելքոնյան փողոց 2,yerevan_gis,DKBXF8314,CLARITY_NODE,40.180621,44.479755,,2025-05-21 18:00:00,2026-04-11 18:00:00,False
+513,198,yerevan,malatia-sebastia,"Monte Melkonyan street, 2",Մ. Մելքոնյան փողոց 2,yerevan_gis,DYTGG3915,CLARITY_NODE,40.18135,44.479177,,2025-05-21 18:00:00,2026-04-11 18:00:00,False
+514,50,yerevan,kentron,"Edvard Mirzoyan street, 5",Էդվարդ Միրզոյան 5 ,yerevan_gis,DJLTH8744,CLARITY_NODE,40.196332,44.507883,,2025-05-26 11:00:00,2026-01-16 04:00:00,False
+515,62,yerevan,shengavit,"Hayk Hovsepyan street, 31",Հ.Հովսեփյան 31 ,yerevan_gis,DXHVN1583,CLARITY_NODE,40.147822,44.480929,,2025-05-26 18:00:00,2026-04-11 18:00:00,False
+516,56,yerevan,kentron,"Paronyan street, 15/5",Պարոնյան 15/5,yerevan_gis,DBVVV1447,CLARITY_NODE,40.17912,44.499216,,2025-06-04 11:00:00,2026-04-11 18:00:00,False
+517,18,yerevan,kentron,Adana street,Castle Yerevan,armaqi,312,armaqi,40.173942,44.491488,,2025-06-04 18:00:00,2025-07-31 23:40:44,False
+518,196,yerevan,malatia-sebastia,Noah district,"48, Ной микрорайон, Ереван, 0065, Армения",armaqi,247,armaqi,40.185175,44.465895,,2025-02-14 02:00:00,2026-04-11 19:10:58,False
+519,1,yerevan,nor-nork,Bagrevand,Engineering City,armaqi,315,armaqi,40.200545,44.581225,,2025-06-09 17:00:00,2025-11-11 18:20:18,False
+521,199,yerevan,kentron,Zakyan street,"1, 1-й переулок улицы Закияна, Кентрон, Ереван, 0015, Армения",armaqi,317,armaqi,40.176941,44.505035,,2025-06-10 00:00:00,2025-10-26 23:22:34,False
+522,205,yerevan,kentron,Surb Grigor Lusavorich Street,Сурб Григора Лусаворича 12/10,armaqi,318,armaqi,40.177,44.504,,2025-06-15 13:00:00,2026-04-11 19:13:06,False
+525,133,yerevan,malatia-sebastia,"Tsitsernakaberd highway, 9/1",Ծիծեռնակաբերդի խճ. 9/1,yerevan_gis,DAQTH5324,CLARITY_NODE,40.179722,44.484982,,2025-06-19 13:00:00,2026-04-11 18:00:00,False
+526,204,yerevan,ajapnyak,Arzumanyan Street 8/2,Արզումանյան փողոց 8/2,yerevan_gis,DNHXP3141,CLARITY_NODE,40.194505,44.476334,,2025-06-19 13:00:00,2026-04-11 18:00:00,False
+527,204,yerevan,ajapnyak,Arzumanyan Street 8/2,Արզումանյան փողոց 8/2,yerevan_gis,DEQLZ7591,CLARITY_NODE,40.194195,44.476471,,2025-06-19 13:00:00,2026-04-11 18:00:00,False
+528,203,yerevan,avan,"Acharyan Street, 39/23",Աճառյան փողոց 39/23,yerevan_gis,DFJLG0805,CLARITY_NODE,40.223488,44.552196,,2025-06-19 15:00:00,2026-04-11 18:00:00,False
+529,203,yerevan,avan,"Acharyan Street, 39/23","ք. Երևան, Աճառյան փողոց 39/23",yerevan_gis,DWAKV8617,CLARITY_NODE,40.223751,44.551438,,2025-06-19 15:00:00,2025-09-22 07:00:00,False
+530,323,yerevan,nork-marash,Նորքի Այգիներ փողոց,"Նորք-Մարաշ, Գ. Հովսեփյան հ. 46/7 ",yerevan_gis,DHVMD0907,CLARITY_NODE,40.179642,44.53731,,2025-07-01 16:00:00,2026-04-11 18:00:00,False
+531,323,yerevan,nork-marash,Նորքի Այգիներ փողոց,"Նորք-Մարաշ, Գ. Հովսեփյան հ. 46/7 ",yerevan_gis,DNXJV2139,CLARITY_NODE,40.180042,44.536053,,2025-07-01 16:00:00,2026-04-11 18:00:00,False
+532,324,yerevan,arabkir,20 Avet Avetisyan Street,Ավետ Ավետիսյան 20,yerevan_gis,DERVL8658,CLARITY_NODE,40.196382,44.497054,,2025-07-11 18:00:00,2026-04-11 18:00:00,False
+533,324,yerevan,arabkir,20 Avet Avetisyan Street,Ավետ Ավետիսյան 20,yerevan_gis,DKUFM1076,CLARITY_NODE,40.196719,44.497019,,2025-07-11 18:00:00,2026-04-11 18:00:00,False
+534,37,yerevan,arabkir,"Griboyedov street, 17",Գրիբոյեդովի 17,yerevan_gis,DMRHC3683,CLARITY_NODE,40.21145,44.512839,,2025-07-23 11:00:00,2026-04-11 18:00:00,False
+539,260,yerevan,nor-nork,Antona Kochinyana Street 7/9,Քոչինյան 7/9 ,yerevan_gis,DZBSK1952,CLARITY_NODE,40.189318,44.595999,,2025-08-04 09:00:00,2026-04-11 18:00:00,False
+540,260,yerevan,nor-nork,Antona Kochinyana Street 7/9,Քոչինյան 7/9 ,yerevan_gis,DARTX7159,CLARITY_NODE,40.189596,44.596197,,2025-08-04 09:00:00,2026-04-11 18:00:00,False
+541,197,yerevan,shengavit,Sevan St. 21/4,Սևանի փ.21/4,yerevan_gis,DTLAF6600,CLARITY_NODE,40.15162,44.503721,,2025-08-06 11:00:00,2026-04-11 18:00:00,False
+542,208,yerevan,kentron,Bagramyan Residence,Բաղրամյան 37,yerevan_gis,DZMQH7059,CLARITY_NODE,40.19174,44.502114,,2025-08-12 15:00:00,2026-04-11 18:00:00,False
+543,208,yerevan,kentron,Bagramyan Residence,Բաղրամյան 37,yerevan_gis,DWUKZ0513,CLARITY_NODE,40.192131,44.502135,,2025-08-12 15:00:00,2026-04-11 18:00:00,False
+544,210,yerevan,kanaker-zeytun,Paruyr Sevak Street 5/1,Պարույր Սևակի փողոց 5/1,yerevan_gis,DJXCX8806,CLARITY_NODE,40.209,44.53531,,2025-08-20 16:00:00,2026-04-11 18:00:00,False
+545,210,yerevan,kanaker-zeytun,Paruyr Sevak Street 5/1,Պարույր Սևակի փողոց 5/1,yerevan_gis,DWHJE2009,CLARITY_NODE,40.209026,44.535585,,2025-08-20 16:00:00,2026-04-11 18:00:00,False
+548,68,yerevan,shengavit,"Frunze street, 10/4","ք․ Երևան, Մ․ Ֆրունզեի 10/4",yerevan_gis,DNRQE2095,CLARITY_NODE,40.148754,44.493423,,2025-09-04 11:00:00,2025-09-30 17:00:00,False
+549,71,yerevan,nor-nork,"David-Bek street, 105",Դավիթ Բեկի 105,yerevan_gis,DSCCX4271,CLARITY_NODE,40.170068,44.548905,,2025-09-19 09:00:00,2026-04-11 18:00:00,False
+550,262,yerevan,davtashen,"1st quarter Davtashen, 11/3","Դավթաշեն 1-ին թաղամաս, 11/3",yerevan_gis,DCBVN0477,CLARITY_NODE,40.218523,44.48664,,2025-09-19 09:00:00,2026-04-11 18:00:00,False
+551,262,yerevan,davtashen,"1st quarter Davtashen, 11/3","Դավթաշեն 1-ին թաղամաս, 11/3",yerevan_gis,DLEDL0741,CLARITY_NODE,40.218694,44.486904,,2025-09-19 09:00:00,2026-04-11 18:00:00,False
+552,203,yerevan,avan,"Acharyan Street, 39/23",Աճառյան փողոց 39/23,yerevan_gis,DLMBW7736,CLARITY_NODE,40.223751,44.551438,,2025-09-25 16:00:00,2026-04-11 18:00:00,False
+553,256,yerevan,kentron,Sevan St. 12,Սեվանի փ․ 12,yerevan_gis,DQUIA3338,CLARITY_NODE,40.165776,44.50804,,2025-09-26 18:00:00,2026-04-11 18:00:00,False
+554,256,yerevan,kentron,Sevan St. 12,Սեվանի փ․ 12,yerevan_gis,DJIWJ5656,CLARITY_NODE,40.166025,44.507121,,2025-09-26 18:00:00,2026-04-11 18:00:00,False
+555,212,yerevan,arabkir,Adonts st,"8/1, улица Никогаоса Адонца, Арабкир, Ереван, 0014, Армения",armaqi,345,armaqi,40.214111,44.521227,,2025-09-26 22:00:00,2026-04-11 19:11:48,False
+558,242,yerevan,kanaker-zeytun,Hrachya Nersisyan street,Тупик,armaqi,346,armaqi,40.206,44.531,,2025-10-11 19:00:00,2026-04-11 19:11:42,False
+559,286,yerevan,arabkir,"Hovsep Emin St, 1st Lane, 23",Մալխասյան 6 նրբ․,yerevan_gis,DMAAM5780,CLARITY_NODE,40.211744,44.505802,,2025-10-14 17:00:00,2026-04-11 18:00:00,False
+560,70,yerevan,malatia-sebastia,"Zoravar Andranik street, 121/6",Զորավար Անդրանիկի փ․ 121/6,yerevan_gis,DTZTV3945,CLARITY_NODE,40.166857,44.44647,,2025-10-14 17:00:00,2026-02-01 04:00:00,False
+561,251,yerevan,kentron,"Antarayin Street, 154-156",Անտառային 154-156 ,yerevan_gis,DFBRT7596,CLARITY_NODE,40.19362,44.510298,,2025-10-16 13:00:00,2026-04-11 18:00:00,False
+562,259,yerevan,davtashen,Tigran Petrosyan 31/12,Տիգրան Պետրոսյան 31/12,yerevan_gis,DHAIY5734,CLARITY_NODE,40.222163,44.493371,,2025-10-16 17:00:00,2026-04-11 18:00:00,False
+563,259,yerevan,davtashen,Tigran Petrosyan 31/12,Տիգրան Պետրոսյան 31/12,yerevan_gis,DBEXB2689,CLARITY_NODE,40.222031,44.493627,,2025-10-16 17:00:00,2026-04-11 18:00:00,False
+564,263,yerevan,shengavit,"Hrant Vardanyan st, 33",,yerevan_gis,DNRAG1476,CLARITY_NODE,40.144983,44.505133,,2025-10-22 14:00:00,2026-04-11 18:00:00,False
+565,88,yerevan,arabkir,"Khapantsyan Street, 4/9","ք․ Երևան, Ղափանցյան 4/9",yerevan_gis,DJDIV8147,CLARITY_NODE,40.216414,44.52248,,2025-10-22 14:00:00,2025-10-24 15:00:00,False
+566,254,yerevan,erebuni,"Khorenatsi street, 47/2",Խորենացի 47/2 ,yerevan_gis,DGBIV6703,CLARITY_NODE,40.163031,44.517341,,2025-10-22 14:00:00,2026-04-11 18:00:00,False
+567,258,yerevan,malatia-sebastia,Leningradyan St. 29/12,Լենինգրադյան 29/12  ,yerevan_gis,DLFLI6258,CLARITY_NODE,40.188241,44.468487,,2025-10-22 17:00:00,2026-04-11 18:00:00,False
+568,258,yerevan,malatia-sebastia,Leningradyan St. 29/12,Լենինգրադյան 29/12  ,yerevan_gis,DDBEP4216,CLARITY_NODE,40.188412,44.467341,,2025-10-22 17:00:00,2026-04-11 18:00:00,False
+569,257,yerevan,malatia-sebastia,Leningradyan St. 19/12,Լենինգրադյան փ. 19/12,yerevan_gis,DICYW7959,CLARITY_NODE,40.190132,44.472185,,2025-10-22 17:00:00,2026-04-11 18:00:00,False
+570,257,yerevan,malatia-sebastia,Leningradyan St. 19/12,Լենինգրադյան փ. 19/12,yerevan_gis,DTXES1592,CLARITY_NODE,40.189939,44.472768,,2025-10-22 17:00:00,2026-04-11 18:00:00,False
+571,90,yerevan,davtashen,"Anastas Mikoyan Street, 107/4",Ա. Միկոյան փողոց հ․107/4,yerevan_gis,DVHSY5414,CLARITY_NODE,40.224942,44.506345,,2025-10-22 18:00:00,2026-04-11 18:00:00,False
+572,90,yerevan,davtashen,"Anastas Mikoyan Street, 107/4",Ա. Միկոյան փողոց հ․107/4,yerevan_gis,DSCCE4433,CLARITY_NODE,40.225273,44.505939,,2025-10-22 18:00:00,2026-04-11 18:00:00,False
+573,55,yerevan,nor-nork,"Lvovyan street, 30",Նոր Նորք Լվովյան փ. 30 հողամաս,yerevan_gis,DENEI8227,CLARITY_NODE,40.202378,44.559729,,2025-10-22 18:00:00,2026-04-11 18:00:00,False
+574,55,yerevan,nor-nork,"Lvovyan street, 30",Նոր Նորք Լվովյան փ. 30 հողամաս,yerevan_gis,DGBEU1181,CLARITY_NODE,40.202219,44.560074,,2025-10-22 18:00:00,2026-04-11 18:00:00,False
+575,261,yerevan,kentron,"Byron St, 3",Նոր Նորք Լվովյան փ. 30 հողամաս,yerevan_gis,DURJQ1404,CLARITY_NODE,40.186945,44.51819,,2025-10-23 13:00:00,2026-04-11 18:00:00,False
+576,253,yerevan,shengavit,"Hrant Vardanyan st, 4",,yerevan_gis,DHNEL5462,CLARITY_NODE,40.14602,44.500262,,2025-10-24 14:00:00,2026-04-11 18:00:00,False
+577,79,yerevan,kentron,"Verin Antarayin Street, 144, 123/4, 125/4",Վ․ Անտառային փողոց հ․ 144 հողամաս,yerevan_gis,DBWFV1690,CLARITY_NODE,40.195025,44.513187,,2025-10-24 17:00:00,2026-04-11 18:00:00,False
+578,79,yerevan,kentron,"Verin Antarayin Street, 144, 123/4, 125/4",Վ․ Անտառային փողոց հ․ 144 հողամաս,yerevan_gis,DIUAX0552,CLARITY_NODE,40.195212,44.513069,,2025-10-24 17:00:00,2026-04-11 18:00:00,False
+579,89,yerevan,avan,"Acharyan Street, 37/41",Աճառյան փողոց հ․37/41,yerevan_gis,DFBYF6275,CLARITY_NODE,40.220479,44.550696,,2025-10-24 17:00:00,2026-04-11 18:00:00,False
+580,89,yerevan,avan,"Acharyan Street, 37/41",Աճառյան փողոց հ․37/41,yerevan_gis,DANUE9028,CLARITY_NODE,40.22015,44.550599,,2025-10-24 17:00:00,2026-04-11 18:00:00,False
+581,254,yerevan,erebuni,"Khorenatsi street, 47/2",Խորենացի 47/2 ,yerevan_gis,DMSHY9812,CLARITY_NODE,40.162966,44.516727,,2025-10-27 15:00:00,2026-04-11 18:00:00,False
+582,51,yerevan,davtashen,"1st quarter Davtashen, 61",Դավթաշեն 1-ին թաղամաս 61,yerevan_gis,DEWNZ2973,CLARITY_NODE,40.219126,44.485678,,2025-10-31 14:00:00,2026-04-11 18:00:00,False
+583,255,yerevan,davtashen,"Davtashen 1st block, 64",Դավթաշեն 1-ին թղմ. 64,yerevan_gis,DCPWR3994,CLARITY_NODE,40.222093,44.491541,,2025-10-31 14:00:00,2026-04-11 18:00:00,False
+584,255,yerevan,davtashen,"Davtashen 1st block, 64",Դավթաշեն 1-ին թղմ. 64,yerevan_gis,DQCBT5206,CLARITY_NODE,40.222112,44.491769,,2025-10-31 14:00:00,2026-04-11 18:00:00,False
+598,280,yerevan,kentron,"Rostoma Street, 29","29, улица Ростома, Кентрон, Ереван, 0070, Армения",armaqi,379,armaqi,40.168,44.519,,2025-11-09 13:00:00,2026-04-11 19:13:09,False
+600,28,yerevan,avan,Kuchak,Ալմա-Աթայի փ. հ.1/4,yerevan_gis,DCSGN4038,CLARITY_NODE,40.218868,44.575843,,2025-11-10 12:00:00,2026-03-17 16:00:00,False
+601,278,yerevan,arabkir,"Vagharshyan st, 2/1",Ղափանցյան 1/10,yerevan_gis,DXKKU1451,CLARITY_NODE,40.195939,44.50375,,2025-11-13 17:00:00,2026-04-11 18:00:00,False
+602,278,yerevan,arabkir,"Vagharshyan st, 2/1",Ղափանցյան 1/10,yerevan_gis,DKMCP3683,CLARITY_NODE,40.1961,44.504042,,2025-11-13 17:00:00,2026-04-11 18:00:00,False
+603,277,yerevan,arabkir,"Khapantsyan street, 1/10",Ղափանցյան 1/10,yerevan_gis,DKJIV3848,CLARITY_NODE,40.21649,44.520472,,2025-11-14 11:00:00,2026-04-11 18:00:00,False
+604,277,yerevan,arabkir,"Khapantsyan street, 1/10",Ղափանցյան 1/10 ,yerevan_gis,DNSHP2734,CLARITY_NODE,40.216232,44.520748,,2025-11-14 11:00:00,2026-04-11 18:00:00,False
+606,279,yerevan,kanaker-zeytun,"3rd dead end of Karapet Ulnetsi, 4","4, 3-й тупик Карапета Улнеци, Канакер-Зейтун, Ереван, 0014, Армения",armaqi,386,armaqi,40.209,44.54,,2025-11-14 20:00:00,2026-01-13 19:04:18,False
+607,42,yerevan,malatia-sebastia,"Leningradyan street , 23/18",Լենինգրադյան 23/19,yerevan_gis,DLVXL0813,CLARITY_NODE,40.189209,44.472381,,2025-11-20 16:00:00,2026-04-11 18:00:00,False
+608,42,yerevan,malatia-sebastia,"Leningradyan street , 23/18",Լենինգրադյան 23/19,yerevan_gis,DCSCN2845,CLARITY_NODE,40.189142,44.472369,,2025-11-20 16:00:00,2026-04-11 18:00:00,False
+609,281,yerevan,ajapnyak,10 Shinarnari Street,Kuuuzya,armaqi,389,armaqi,40.195028,44.474764,,2025-11-25 13:00:00,2026-01-24 20:24:25,False
+610,282,yerevan,kentron,"Zavaryan Street, 1",Zavaryan Street,air_gradient,177424,air_gradient,40.166727,44.511603,,2025-11-25 23:15:34,2026-04-11 19:15:06,False
+611,283,yerevan,davtashen,68 Anastas Mikoyan Street,"Դավթաշեն, Ա. Միկոյան 68",yerevan_gis,DFDYW5981,CLARITY_NODE,40.218985,44.502479,,2025-11-27 10:00:00,2026-04-11 18:00:00,False
+612,283,yerevan,davtashen,68 Anastas Mikoyan Street,"Դավթաշեն, Ա. Միկոյան 68",yerevan_gis,DJYQN9923,CLARITY_NODE,40.218931,44.502157,,2025-11-27 10:00:00,2026-04-11 18:00:00,False
+613,71,yerevan,nor-nork,"David-Bek street, 105",Դավիթ Բեկի 105,yerevan_gis,DVIQL0519,CLARITY_NODE,40.170744,44.548314,,2025-12-02 12:00:00,2026-04-11 18:00:00,False
+614,93,yerevan,kanaker-zeytun,"Zakaria Kanakertsi Street, 141/3",Քանաքեռցու 141/3,yerevan_gis,DDNYH9648,CLARITY_NODE,40.229906,44.55126,,2025-12-04 10:00:00,2026-04-11 18:00:00,False
+615,93,yerevan,kanaker-zeytun,"Zakaria Kanakertsi Street, 141/3",Քանաքեռցու 141/3,yerevan_gis,DEZVL6824,CLARITY_NODE,40.229868,44.551174,,2025-12-04 10:00:00,2026-04-11 18:00:00,False
+616,287,yerevan,ajapnyak,Vahagni 2,Vahakni,iqair,69378d4af3162acd10a80be8,iqair,40.218,44.4467,,2025-12-09 06:00:00,2026-04-11 19:00:00,False
+617,285,yerevan,kentron,"Grigor Lusavorich St, 4",Գ. Լուսավորիչ 4 ,yerevan_gis,DWBXL9987,CLARITY_NODE,40.172805,44.508441,,2025-12-11 14:00:00,2026-04-11 18:00:00,False
+618,285,yerevan,kentron,"Grigor Lusavorich St, 4",Գ. Լուսավորիչ 4 ,yerevan_gis,DVNGR8099,CLARITY_NODE,40.172558,44.507556,,2025-12-11 14:00:00,2026-04-11 18:00:00,False
+619,284,yerevan,avan,"Acharyan Street, 57/12",Աճառյան 57/12 ,yerevan_gis,DQKSI9798,CLARITY_NODE,40.225535,44.550449,,2025-12-11 16:00:00,2026-04-11 18:00:00,False
+620,284,yerevan,avan,"Acharyan Street, 57/12",Աճառյան 57/12,yerevan_gis,DNAEM9656,CLARITY_NODE,40.225238,44.549782,,2025-12-11 16:00:00,2026-04-11 18:00:00,False
+621,75,yerevan,nork-marash,"Norki Ayginer street, 180",Նորքի Այգիներ 180,yerevan_gis,DHPVG0775,CLARITY_NODE,40.183089,44.536401,,2025-12-16 15:00:00,2026-04-11 18:00:00,False
+622,245,yerevan,malatia-sebastia,"Tsitsernakaberd highway, 11/1","Ծիծեռնակաբերդի խճղ., 11/1",yerevan_gis,DHJNT1871,CLARITY_NODE,40.181138,44.482055,,2025-12-17 17:00:00,2026-04-11 18:00:00,False
+623,288,yerevan,avan,12 Almaty Street,"Ավան, Ալմա-Աթայի 12",yerevan_gis,DUGTA5074,CLARITY_NODE,40.218276,44.572747,,2025-12-19 16:00:00,2026-04-11 18:00:00,False
+624,289,yerevan,nor-nork,"Թևոսյան փողոց, 4/1",Հովհանես Թևոսյան 1/5,yerevan_gis,DMPDS5006,CLARITY_NODE,40.184634,44.571314,,2025-12-19 16:00:00,2026-04-11 18:00:00,False
+625,288,yerevan,avan,12 Almaty Street,"Ավան, Ալմա-Աթայի 12",yerevan_gis,DEWYB5804,CLARITY_NODE,40.217928,44.572613,,2025-12-19 16:00:00,2026-04-11 18:00:00,False
+626,289,yerevan,nor-nork,"Թևոսյան փողոց, 4/1",Հովհանես Թևոսյան 1/5,yerevan_gis,DCEYW8932,CLARITY_NODE,40.18519,44.570926,,2025-12-19 16:00:00,2026-04-11 18:00:00,False
+628,290,yerevan,avan,67/3 Acharyan Street,Զ. Սարկավագի փողոց 128,yerevan_gis,DSZQA2490,CLARITY_NODE,40.230468,44.555493,,2025-12-26 12:00:00,2026-04-11 18:00:00,False
+629,88,yerevan,arabkir,"Khapantsyan Street, 4/9",,yerevan_gis,DMBIT5320,CLARITY_NODE,40.216004,44.522625,,2025-12-26 13:00:00,2026-04-11 18:00:00,False
+630,88,yerevan,arabkir,"Khapantsyan Street, 4/9",Ղափանցյան 4/9,yerevan_gis,DIRGA8808,CLARITY_NODE,40.216223,44.522821,,2025-12-26 13:00:00,2026-04-11 18:00:00,False
+631,290,yerevan,avan,67/3 Acharyan Street,Զ. Սարկավագի փողոց 128,yerevan_gis,DMIBI1112,CLARITY_NODE,40.23114,44.556219,,2025-12-26 13:00:00,2026-04-11 18:00:00,False
+640,298,yerevan,avan,72/2 Marshal Babajanyan Street,"Ավան, Մարշալ Բաբաջանյան փողոց 72/2",yerevan_gis,DMBET3100,CLARITY_NODE,40.219978,44.578754,,2026-01-09 13:00:00,2026-04-11 18:00:00,False
+641,298,yerevan,avan,72/2 Marshal Babajanyan Street,"Ավան, Մարշալ Բաբաջանյան փողոց 72/2 ",yerevan_gis,DPPVN7712,CLARITY_NODE,40.220213,44.578512,,2026-01-09 13:00:00,2026-04-11 18:00:00,False
+642,257,yerevan,malatia-sebastia,Leningradyan St. 19/12,Լենինգրադյան փողոց 23/15,yerevan_gis,DTKWK3148,CLARITY_NODE,40.189879,44.47266,,2026-01-09 15:00:00,2026-04-11 18:00:00,False
+643,134,yerevan,malatia-sebastia,"Leningradyan street , 19/11",Լենինգրադյան փողոց 23/15,yerevan_gis,DACIL0710,CLARITY_NODE,40.190681,44.473754,,2026-01-09 15:00:00,2026-04-11 18:00:00,False
+646,301,yerevan,arabkir,19 Keru Street,Քեռու փողոց 19,yerevan_gis,DTCVH4522,CLARITY_NODE,40.198589,44.486257,,2026-01-15 17:00:00,2026-04-11 18:00:00,False
+647,301,yerevan,arabkir,19 Keru Street,Քեռու փողոց 19,yerevan_gis,DKRVA7220,CLARITY_NODE,40.198439,44.486531,,2026-01-15 17:00:00,2026-04-11 18:00:00,False
+648,300,yerevan,arabkir,Kievyan St.,Kievyan st,air_gradient,182474,air_gradient,40.195173,44.488999,,2026-01-21 12:35:31,2026-04-11 19:15:19,False
+654,109,yerevan,arabkir,Nairi Zaryan street,"Целующиеся дома, Ереван, Армения",armaqi,418,armaqi,40.203465,44.516931,,2026-02-03 17:00:00,2026-04-11 19:13:50,False
+657,303,yerevan,kentron,16 Charents Street,Չարենցի 14,yerevan_gis,DGQZP1278,CLARITY_NODE,40.180772,44.527307,,2026-02-18 09:00:00,2026-04-11 18:00:00,False
+658,303,yerevan,kentron,16 Charents Street,Չարենցի 14,yerevan_gis,DYPUI5336,CLARITY_NODE,40.180914,44.527144,,2026-02-18 09:00:00,2026-04-11 18:00:00,False
+659,100,yerevan,nor-nork,"Ashot Hovhannisyan street, 21",Աշոտ Հովհաննիսյան 21 ,yerevan_gis,DJSAF2990,CLARITY_NODE,40.192423,44.575337,,2026-02-20 15:00:00,2026-04-11 18:00:00,False
+660,304,yerevan,nork-marash,Norq Marash 5,Norq Marash 5,iqair,66b1d9204ed053fafed68dbb,iqair,40.1903,44.5481,,2026-02-23 09:00:00,2026-02-28 16:00:00,False
+677,322,yerevan,ajapnyak,29/2 Fuchik Street,Վերֆելի 40/2,yerevan_gis,DPBXV0736,CLARITY_NODE,40.208771,44.476339,,2026-03-02 16:00:00,2026-04-11 18:00:00,False
+678,322,yerevan,ajapnyak,29/2 Fuchik Street,Ֆուչիկի 29/2,yerevan_gis,DFHBQ9370,CLARITY_NODE,40.209066,44.476097,,2026-03-02 16:00:00,2026-04-11 18:00:00,False
+679,161,yerevan,malatia-sebastia,Isakov Avenue,Ծովակալ Իսակովի 15/14,yerevan_gis,DZVMJ4809,CLARITY_NODE,40.167132,44.485542,,2026-03-02 16:00:00,2026-04-11 18:00:00,False
+680,161,yerevan,malatia-sebastia,Isakov Avenue,Ծովակալ Իսակովի 15/14,yerevan_gis,DSGPF1001,CLARITY_NODE,40.167253,44.484653,,2026-03-02 16:00:00,2026-04-11 18:00:00,False
+681,326,yerevan,arabkir,12/2 Hrachya Kochar Street 1st Lane,Հրաչյա Քոչարի փողոց 1-ին նրբ. 12/2 ,yerevan_gis,DMEHA2053,CLARITY_NODE,40.201544,44.505513,,2026-03-06 17:00:00,2026-04-11 18:00:00,False
+682,326,yerevan,arabkir,12/2 Hrachya Kochar Street 1st Lane,Հրաչյա Քոչարի փողոց 1-ին նրբ. 12/2 ,yerevan_gis,DJHJE4215,CLARITY_NODE,40.201812,44.505813,,2026-03-06 17:00:00,2026-04-11 18:00:00,False
+683,82,yerevan,kanaker-zeytun,"Gogol Street, 24/23",Գոգոլի 24,yerevan_gis,DGBBJ0861,CLARITY_NODE,40.198307,44.540559,,2026-03-12 12:00:00,2026-04-11 18:00:00,False
+685,82,yerevan,kanaker-zeytun,"Gogol Street, 24/23",Գոգոլի 24 ,yerevan_gis,DUAPC4839,CLARITY_NODE,40.198476,44.539996,,2026-03-12 16:00:00,2026-04-11 18:00:00,False
+686,30,yerevan,malatia-sebastia,"Tsitsernakaberd highway, 1..4","Ծիծեռնակաբերդի խճուղի հ.12/5, 13, 13/1, 39, 39/1, 39/2, 39/3, 39/4, 39/5 ",yerevan_gis,DPRGT3673,CLARITY_NODE,40.182417,44.481375,,2026-03-13 16:00:00,2026-04-11 18:00:00,False
+687,30,yerevan,malatia-sebastia,"Tsitsernakaberd highway, 1..4",Հալաբյան 20/16,yerevan_gis,DKITY7976,CLARITY_NODE,40.18081,44.481148,,2026-03-13 16:00:00,2026-04-11 18:00:00,False
+688,30,yerevan,malatia-sebastia,"Tsitsernakaberd highway, 1..4","Ծիծեռնակաբերդի խճուղի հ.12/5, 13, 13/1, 39, 39/1, 39/2, 39/3, 39/4, 39/5",yerevan_gis,DDSPA0757,CLARITY_NODE,40.182297,44.48108,,2026-03-17 16:00:00,2026-04-11 18:00:00,False
+690,30,yerevan,malatia-sebastia,"Tsitsernakaberd highway, 1..4","Ծիծեռնակաբերդի խճուղի հ.12/5, 13, 13/1, 39, 39/1, 39/2, 39/3, 39/4, 39/5",yerevan_gis,DMWDI1654,CLARITY_NODE,40.181398,44.480768,,2026-04-01 15:00:00,2026-04-11 18:00:00,False
+691,329,yerevan,arabkir,38 Hovsep Emini st,Հովսեփ Էմինի 38 ,yerevan_gis,DZQUW8113,CLARITY_NODE,40.205734,44.494579,,2026-04-01 16:00:00,2026-04-11 18:00:00,False
+692,329,yerevan,arabkir,38 Hovsep Emini st,Հովսեփ Էմինի 38 ,yerevan_gis,DGFYK5190,CLARITY_NODE,40.205493,44.494824,,2026-04-01 16:00:00,2026-04-11 18:00:00,False
+695,330,yerevan,kentron,130/11 Antarayin Street,Անտառային փ. 130/11,yerevan_gis,DQKPZ0255,CLARITY_NODE,40.193497,44.512304,,2026-04-09 14:00:00,2026-04-11 18:00:00,False
+696,330,yerevan,kentron,130/11 Antarayin Street,Անտառային փ. 130/11,yerevan_gis,DBAVT4053,CLARITY_NODE,40.19307,44.512306,,2026-04-09 14:00:00,2026-04-11 18:00:00,False
+697,330,yerevan,kentron,130/11 Antarayin Street,Վերին Անտառային հ․124/10 ,yerevan_gis,DJBIU9012,CLARITY_NODE,40.193616,44.512405,,2026-04-09 18:00:00,2026-04-11 18:00:00,False
+698,327,yerevan,kentron,"9, 11 Gohar Gasparyan Street",Վերին Անտառային հ․124/10 ,yerevan_gis,DLXWT0114,CLARITY_NODE,40.193969,44.512689,,2026-04-09 18:00:00,2026-04-11 18:00:00,False
+699,331,yerevan,shengavit,28/1 Nerkin Charbakh 2nd Street,Ներքին Չարբախ 3-րդ փողոց 31/13 ,yerevan_gis,DXUBR6484,CLARITY_NODE,40.128215,44.445925,,2026-04-09 18:00:00,2026-04-11 18:00:00,False
+700,331,yerevan,shengavit,28/1 Nerkin Charbakh 2nd Street,Ներքին Չարբախ 3-րդ փողոց 31/13 ,yerevan_gis,DTLQM7487,CLARITY_NODE,40.12754,44.44651,,2026-04-09 18:00:00,2026-04-11 18:00:00,False
+701,333,yerevan,kentron,,ELDORADO KENTRON,iqair,69d8736c4ad45b1e8bcafcd1,iqair,40.184,44.515,,2026-04-10 07:00:00,2026-04-11 19:00:00,False
+702,332,yerevan,avan,,ELDORADO AVAN,iqair,69d89089943adcfe4c65ec8b,iqair,40.2225,44.5605,,2026-04-10 09:00:00,2026-04-11 19:00:00,False
